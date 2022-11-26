@@ -1,0 +1,8678 @@
+1   2 
+10   2 3 
+1030   1 
+104   3 
+11   2 
+11th   3 
+12   2 
+129   2 
+13   2 3 
+136   3 
+13th   1 
+14th   1 
+15th   1 
+1642   2 
+1647   1 
+1670   3 
+16tha   1 
+1730   1 
+1742   1 
+17thall   1 
+1860   2 
+1876   1 
+1878   2 
+1882   1 
+1883   1 
+1884   1 
+1887   3 
+1889   3 
+1890   3 
+1891   3 
+1892   3 
+1893   3 
+1895   3 
+1896   3 
+1896i   3 
+1897   3 
+18th   1 
+1901   3 
+1901just   3 
+1902   3 
+1903   3 
+1907   3 
+19th   3 
+2   2 
+200   1 
+20th   3 
+210   3 
+21st   3 
+221b   2 
+26th   3 
+27   2 
+2704   1 
+28   2 
+2d   3 
+3   1 2 3 
+31   2 3 
+34   2 
+369   3 
+3d   3 
+3rd   3 
+4   2 
+430   3 
+46   2 3 
+4th   1 2 3 
+5   2 
+520   3 
+5th   3 
+6   2 
+66   1 
+7   2 
+8   2 
+830   2 3 
+9   2 
+915   2 
+97163   2 
+a   1 2 3 
+aback   1 3 
+abandon   1 2 3 
+abat   3 
+abba   3 
+abbess   3 
+abbey   3 
+abet   1 
+abhor   1 
+abil   1 
+abject   3 
+abl   1 2 3 
+ablebodi   1 3 
+ablebut   1 
+abnorm   3 
+aboard   2 
+abod   1 3 
+abort   1 
+about   1 2 3 
+aboutbeggin   3 
+aboutrumour   2 
+abov   2 3 
+abraham   3 
+abreast   1 
+abroad   2 3 
+abruptli   2 3 
+absenc   1 2 3 
+absencea   2 
+absent   1 2 
+absente   2 
+absentmind   1 3 
+absolut   1 2 3 
+absolv   3 
+absorb   1 2 3 
+abstract   1 2 3 
+abstractedli   3 
+abstrus   3 
+absurd   1 2 3 
+absurdli   3 
+aburnin   2 
+abus   1 3 
+ac   2 
+academ   3 
+accent   1 3 
+accept   1 3 
+access   2 3 
+accessori   1 
+accid   2 3 
+accident   1 3 
+accommod   2 
+accompani   1 2 3 
+accomplic   1 2 3 
+accomplish   1 2 3 
+accord   1 2 3 
+accordingli   2 
+accost   2 
+account   1 2 3 
+accountthat   3 
+accumul   2 3 
+accur   1 2 3 
+accuraci   2 
+accurs   2 3 
+accus   2 3 
+accustom   1 2 3 
+ach   3 
+achiev   1 
+acid   2 3 
+acidchar   3 
+acknowledg   1 2 3 
+acquaint   1 2 3 
+acquiesc   3 
+acquir   1 2 3 
+acr   2 3 
+acrid   1 3 
+acrobat   3 
+across   1 2 3 
+act   1 2 3 
+action   1 2 3 
+activ   1 2 3 
+actor   2 3 
+actual   1 2 3 
+acumen   3 
+acut   1 2 3 
+ad   1 2 3 
+add   1 2 3 
+addict   2 
+addit   1 2 3 
+address   1 2 3 
+adelbert   3 
+adequ   3 
+adher   1 2 
+adieu   2 
+adjac   3 
+adject   1 
+adjourn   3 
+administ   3 
+administr   2 
+admir   1 2 3 
+admiss   1 
+admit   1 3 
+admitof   3 
+admonish   2 
+ado   1 
+adoin   3 
+adopt   1 2 3 
+ador   3 
+adorn   2 3 
+adult   2 3 
+advanc   1 2 3 
+advantag   1 2 3 
+advent   3 
+adventur   1 2 3 
+adversari   3 
+advertis   2 3 
+advic   1 2 3 
+advis   1 2 3 
+advoc   2 
+afear   2 
+affabl   2 3 
+affair   1 2 3 
+affaira   3 
+affect   1 2 3 
+affection   3 
+affidavit   3 
+affirm   2 
+afflict   3 
+afford   1 2 3 
+afghan   2 
+afghanistan   2 
+afoot   1 
+afraid   1 2 3 
+afresh   3 
+africa   1 3 
+african   1 3 
+after   1 2 3 
+afterbreakfast   3 
+afteri   2 
+afternoon   1 2 3 
+afterthought   1 
+afterward   1 2 3 
+again   1 2 3 
+against   3 
+againthey   3 
+agap   1 
+age   1 2 3 
+ageblacken   1 
+agenc   1 2 3 
+agent   1 2 3 
+agentth   1 
+agentthat   1 
+aggressor   3 
+aggriev   2 
+aghast   1 
+agil   1 3 
+agin   2 
+agit   1 2 3 
+ago   1 2 3 
+agon   1 3 
+agoni   1 3 
+agoth   1 
+agoyoung   3 
+agre   1 2 3 
+agreeabl   2 
+agreement   3 
+agricultur   3 
+ah   1 2 3 
+ahalf   2 
+ahead   1 2 3 
+aid   1 2 3 
+ail   1 
+aim   2 
+aimless   3 
+aimlessli   3 
+aint   2 3 
+air   1 2 3 
+airedal   3 
+airgun   3 
+airguna   3 
+airi   2 
+airili   2 
+airor   2 
+ala   2 3 
+alarm   1 2 3 
+albert   2 3 
+alcohol   3 
+alcov   3 
+aleanin   2 
+alert   1 2 3 
+alexand   3 
+alexandrian   3 
+algebra   3 
+algeria   3 
+alia   3 
+alibi   3 
+alic   2 3 
+alicia   3 
+alien   3 
+alienist   3 
+alight   1 2 
+aliv   1 3 
+alkali   2 
+alkaloid   2 
+all   1 2 3 
+allabsorb   2 
+allahabad   3 
+allay   2 
+allbi   1 
+alleg   3 
+allen   2 
+alley   1 
+alli   1 2 3 
+allianc   3 
+allimport   3 
+allot   2 
+allow   1 2 3 
+allround   3 
+allsuffici   3 
+alltooshort   3 
+allud   2 3 
+allus   2 3 
+almighti   2 
+almon   1 
+almondi   3 
+aloft   1 
+alon   1 2 3 
+along   1 2 3 
+aloof   3 
+aloud   1 2 3 
+alreadi   1 3 
+also   1 3 
+alsoa   3 
+alter   1 2 3 
+alterc   2 
+altern   1 2 3 
+altogeth   1 2 3 
+alton   1 
+alway   1 3 
+am   1 2 3 
+amass   2 
+amateur   1 2 
+amati   2 
+amaz   1 2 3 
+amazon   3 
+amberley   3 
+amberleyy   3 
+ambit   3 
+ambiti   1 2 
+ambush   1 
+amen   2 3 
+amend   2 
+america   1 2 3 
+american   1 2 3 
+amiabl   1 3 
+amid   1 3 
+amiss   2 3 
+among   1 2 3 
+amongst   2 
+amount   3 
+ampl   1 2 3 
+amsterdam   3 
+amus   1 2 3 
+an   1 2 3 
+analog   1 3 
+analysi   2 3 
+analyt   2 
+anatom   3 
+anatomi   1 2 3 
+anatomyaccur   2 
+ancestor   1 3 
+ancestr   1 
+anchor   2 3 
+ancient   1 3 
+and   1 2 3 
+andand   2 
+anderson   1 3 
+aneur   2 
+angel   1 2 3 
+anger   1 3 
+angl   1 3 
+anglosaxon   2 
+angri   1 2 3 
+angrili   3 
+anguishburst   1 
+angular   2 3 
+ani   1 2 3 
+anim   1 2 3 
+animalbut   3 
+ankl   2 
+ann   3 
+annal   2 3 
+annihil   2 
+announc   1 2 3 
+annoy   1 2 3 
+annuiti   3 
+anon   1 
+anonym   3 
+anoth   1 2 3 
+anothera   1 
+answer   1 2 3 
+answeri   3 
+antagonist   2 3 
+anteced   2 
+antenna   1 3 
+anthoni   1 
+anthropoid   3 
+anthropolog   1 
+anticip   1 2 3 
+antiquarian   1 
+antonio   1 
+anxieti   1 2 3 
+anxiou   1 2 3 
+anxious   2 3 
+anybodi   2 
+anyhow   1 2 3 
+anyon   1 2 3 
+anyth   1 2 3 
+anywher   3 
+aortic   2 
+apach   3 
+apart   1 2 3 
+apathet   2 
+apelik   2 
+apiec   2 
+apolog   1 2 3 
+appal   1 
+appar   1 2 3 
+apparit   1 2 
+appeal   1 3 
+appear   1 2 3 
+append   2 
+appendix   3 
+appertain   2 
+applaud   2 
+appli   1 2 3 
+applianc   3 
+applic   1 3 
+appoint   1 3 
+appointmentsh   3 
+apport   2 
+appreci   1 2 3 
+apprehend   2 
+apprehens   3 
+approach   1 2 3 
+approb   1 
+appropri   3 
+approv   1 3 
+approvingli   2 
+apron   1 2 
+apropo   2 
+apullin   3 
+aqua   2 
+arab   2 
+arabian   3 
+arableland   3 
+arca   2 
+arch   1 2 3 
+archaeologist   3 
+architect   1 
+architectur   3 
+archiv   3 
+archway   3 
+ardent   3 
+are   1 2 3 
+arent   3 
+argu   1 2 3 
+argument   1 2 3 
+arid   2 
+aright   1 
+aris   1 2 3 
+aristocrat   3 
+arkansa   3 
+arm   1 2 3 
+arma   3 
+armchair   1 2 3 
+armi   2 3 
+armori   3 
+armshot   3 
+aros   2 3 
+arous   1 2 3 
+arrang   1 2 3 
+array   2 3 
+arrest   1 2 3 
+arriv   1 2 3 
+arrow   1 2 3 
+arsen   3 
+art   1 2 3 
+arteri   2 3 
+artesian   3 
+arthur   1 2 3 
+articl   1 2 3 
+articul   1 
+artifici   1 3 
+artisan   2 
+artist   1 3 
+artistdecor   3 
+as   1 2 3 
+ascend   2 3 
+ascertain   1 2 3 
+ascii   1 2 3 
+ash   1 2 3 
+asham   1 
+ashesin   2 
+asi   1 2 3 
+asid   1 2 3 
+asingin   2 
+ask   1 2 3 
+asleep   1 2 3 
+aspect   2 3 
+asper   1 3 
+aspers   3 
+asprawl   2 
+assassin   1 2 3 
+assault   3 
+assembl   3 
+assemblag   2 
+assent   2 3 
+assert   3 
+assess   3 
+assign   3 
+assist   1 2 3 
+assiz   3 
+associ   1 3 
+assort   2 
+assuag   2 
+assum   1 2 3 
+assur   1 2 3 
+assuredli   2 
+aston   3 
+astonish   1 2 3 
+astonishmentinde   2 
+astound   1 2 
+astray   3 
+astronom   1 
+astronomynil   2 
+astut   1 3 
+asylum   3 
+at   1 2 3 
+atalkin   2 
+atav   1 
+ate   2 
+athlet   1 3 
+atlant   2 
+atmospher   1 2 3 
+aton   1 3 
+atroc   2 
+atroci   1 3 
+attach   1 2 3 
+attack   1 2 3 
+attain   1 2 3 
+attempt   1 2 3 
+attend   1 2 3 
+attent   1 2 3 
+attic   2 
+attir   1 
+attitud   1 2 3 
+attract   1 2 3 
+au   1 
+auction   3 
+audac   1 
+audaci   1 3 
+audibl   2 
+audienc   3 
+audley   2 
+augment   2 
+august   2 3 
+aunti   2 
+auster   1 3 
+austrian   3 
+authent   1 
+author   1 2 3 
+authorit   3 
+autobiographi   1 
+autocrat   1 
+automat   3 
+autumn   1 3 
+avail   1 2 3 
+aveng   1 2 3 
+avenu   1 3 
+avers   3 
+avert   1 3 
+avoid   1 2 3 
+avow   2 
+aw   1 2 3 
+await   1 2 3 
+awak   2 3 
+awaken   3 
+awar   1 2 3 
+away   1 2 3 
+awe   3 
+awesom   2 
+awestruck   2 
+awhil   2 
+awkward   1 3 
+awkwardli   3 
+awok   1 2 
+awoken   2 
+axe   1 
+axiom   3 
+b   1 3 
+babe   2 
+babi   3 
+baboonlik   2 
+bachelor   1 3 
+back   1 2 3 
+background   1 2 3 
+backward   2 3 
+bad   1 2 3 
+bade   1 2 
+badli   1 3 
+badlyplay   2 
+badword   3 
+baffl   1 3 
+bag   1 2 3 
+baggag   3 
+baggi   3 
+baggili   2 
+bain   3 
+bait   1 2 
+baker   1 2 3 
+balanc   1 2 3 
+balconi   1 
+bald   3 
+baldi   3 
+bale   2 
+balk   1 
+ball   3 
+balsam   2 
+balustrad   1 3 
+ban   1 
+band   1 2 3 
+bandag   3 
+bandi   2 
+bang   1 3 
+banish   3 
+bank   1 2 3 
+banker   3 
+bankwith   3 
+banner   2 
+banquet   1 
+banquetinghal   1 
+bar   1 2 3 
+barbar   3 
+barcarol   3 
+bardl   3 
+bare   1 2 3 
+bargain   2 3 
+bark   2 3 
+barker   3 
+barn   3 
+barney   3 
+baron   3 
+baronet   1 3 
+baronetit   1 
+barouch   3 
+barraud   2 
+barrel   1 3 
+barren   1 2 3 
+barrier   2 
+barrist   1 3 
+barrow   1 
+barrymor   1 
+bart   2 
+barton   3 
+basalt   2 
+base   2 3 
+basement   3 
+basi   1 2 3 
+basin   2 
+bask   2 
+baskervil   1 
+baskervillethat   1 
+basket   1 3 
+bat   3 
+bate   2 3 
+bath   1 2 3 
+bather   3 
+bathingcot   3 
+bathingpool   3 
+batter   3 
+battl   1 2 3 
+battlefield   3 
+baulk   1 
+bay   1 3 
+be   1 2 3 
+beach   3 
+bead   3 
+beadi   2 
+beak   1 3 
+beam   1 3 
+bear   1 2 3 
+beard   1 2 3 
+bearer   2 
+beast   1 2 3 
+beastit   3 
+beastli   3 
+beastman   3 
+beat   1 2 3 
+beatand   2 
+beaten   1 2 3 
+beatitud   2 
+beatric   3 
+beauti   1 2 3 
+beaux   3 
+becaus   1 2 3 
+beckon   1 
+becom   2 3 
+bed   1 2 3 
+bedford   3 
+bedfordshir   3 
+bedroom   1 2 3 
+bedsid   3 
+bedsteadbut   3 
+bee   2 3 
+beech   3 
+been   1 2 3 
+beeny   1 
+beetl   1 2 
+befal   1 
+befallen   1 2 
+befel   3 
+befor   1 2 3 
+beforehand   2 
+beforesay   3 
+beg   1 2 3 
+began   1 2 3 
+begat   3 
+beggar   2 
+begin   1 2 3 
+begun   1 2 3 
+behalf   2 
+behav   3 
+behaviour   3 
+behind   1 2 3 
+behold   3 
+beif   3 
+beingsa   2 
+belat   1 2 
+belgian   1 
+belief   1 3 
+believ   1 2 3 
+bell   1 2 3 
+belladonna   2 
+bellami   3 
+belliv   1 
+belong   1 2 3 
+belov   3 
+below   1 2 3 
+belt   2 
+bemoan   2 
+bemus   1 
+bench   1 3 
+bend   2 3 
+bender   2 
+beneath   1 2 3 
+benefactor   3 
+benevol   1 
+bennett   3 
+bennettwil   3 
+bent   1 3 
+bereav   2 
+berkeley   3 
+berkshir   2 3 
+bertillon   1 
+beryl   1 
+besid   1 2 3 
+besmirch   1 
+bespok   2 3 
+best   1 2 3 
+bestial   3 
+bet   2 3 
+betim   1 3 
+betray   1 2 
+better   1 2 3 
+between   1 2 3 
+betwixt   1 
+bewail   1 3 
+bewar   3 
+bewild   1 2 3 
+bewilder   2 3 
+beyond   1 2 3 
+bia   1 
+bias   2 
+bier   2 
+big   1 2 3 
+biggest   1 3 
+bighornfor   2 
+bill   1 3 
+billet   2 
+billi   3 
+billiardroom   1 
+bind   1 
+binder   3 
+biograph   3 
+biographi   1 
+bird   1 2 3 
+birdbow   3 
+birdpract   1 
+birmingham   3 
+birth   3 
+bischoff   2 
+bishop   3 
+bison   2 
+bit   1 2 3 
+bite   1 2 3 
+bitten   3 
+bitter   1 2 3 
+bitterli   1 2 3 
+bittern   1 
+biweekli   3 
+bizarr   2 
+black   1 2 3 
+blackbeard   1 
+blackcloth   1 
+blacker   1 
+blackfac   3 
+blackfeet   2 
+blackguard   1 
+blackheath   3 
+blackmail   1 3 
+blame   1 2 3 
+blanch   2 3 
+blanco   2 
+blancoso   2 
+blandest   2 
+blandli   2 
+blank   1 2 3 
+blanket   1 
+blase   2 
+blast   1 
+blaze   1 2 3 
+bleach   2 3 
+bleak   1 2 
+bleaker   1 
+blear   2 
+bled   3 
+bleed   3 
+blend   3 
+bless   1 2 3 
+blew   1 2 3 
+blind   1 2 3 
+blindli   1 
+blink   1 2 3 
+blith   3 
+bloat   2 
+blob   3 
+block   1 2 3 
+blood   1 2 3 
+bloodhound   1 2 
+bloodhoundssleuthhound   3 
+bloodi   1 3 
+bloodlet   3 
+bloodr   2 
+bloodstain   2 3 
+bloom   1 
+bloomin   3 
+blossom   2 
+blot   1 2 
+blotch   1 2 
+blottingpap   3 
+blount   3 
+blow   1 2 3 
+blown   1 
+blue   1 2 3 
+bluf   3 
+bluff   2 3 
+bluish   1 
+blunder   1 2 3 
+blunderedform   3 
+blunt   2 
+blur   1 3 
+blush   2 3 
+bluster   3 
+blymer   3 
+boar   1 3 
+board   1 2 3 
+boardeda   2 
+boarder   2 
+boardinghous   2 
+boat   2 3 
+bob   2 3 
+boccaccio   2 
+bode   1 2 
+bodi   1 2 3 
+bodili   2 3 
+bodkin   2 
+bodyjealousi   3 
+boer   3 
+bog   1 
+boggirt   1 
+boghol   1 
+bogi   1 
+bogu   3 
+bohemia   3 
+bohemian   3 
+bohãm   2 
+boil   1 
+bold   2 3 
+boldest   1 
+boldli   2 
+bolt   1 2 3 
+bolthol   3 
+bombay   2 
+bond   1 3 
+bone   1 2 3 
+boney   2 
+boni   3 
+bonnet   3 
+boob   3 
+book   1 2 3 
+booka   3 
+booklet   3 
+boom   1 3 
+boot   1 2 3 
+bootscould   3 
+bootsgav   1 
+border   1 2 
+bore   1 2 3 
+born   1 2 3 
+borough   1 
+borrow   3 
+bosom   1 
+boss   3 
+botan   1 
+botani   1 
+botanyvari   2 
+both   1 2 3 
+bottl   1 2 3 
+bottom   1 
+bought   1 3 
+boulder   1 2 3 
+bouldersprinkl   1 
+bounc   2 
+bound   1 2 3 
+bourgeoi   1 
+bovin   3 
+bow   1 2 3 
+bowback   3 
+bowler   3 
+box   1 2 3 
+boxer   2 3 
+boxoffic   3 
+boxopen   3 
+boxroom   1 3 
+boy   1 2 3 
+boyand   3 
+boyh   3 
+boyhood   3 
+boyish   1 
+brace   3 
+bracelet   2 
+bracken   1 
+bradford   2 
+bradley   1 
+brag   2 
+brain   1 2 3 
+brainatt   2 
+brainwork   2 
+brambl   1 
+branch   1 2 3 
+brand   2 3 
+brandi   1 3 
+brandybottl   1 
+brandyflask   1 
+brass   2 3 
+brave   1 2 3 
+braver   3 
+bravest   1 
+brazil   3 
+brazilian   3 
+breach   1 3 
+bread   1 2 
+breadth   1 2 
+break   1 2 3 
+breakand   3 
+breakdown   3 
+breakfast   1 2 3 
+breakfastt   1 
+breast   1 2 3 
+breastpocket   1 
+breath   1 2 3 
+breathless   1 2 
+bred   3 
+breed   1 3 
+breeda   3 
+breez   2 3 
+brew   1 
+brewer   3 
+bribe   1 3 
+brick   1 2 3 
+brickfal   3 
+bride   2 
+bridg   1 2 3 
+bridgea   3 
+bridgethat   3 
+bridl   1 2 
+brief   2 3 
+briefli   3 
+brigad   2 
+brigg   3 
+brigham   2 
+bright   1 2 3 
+brightest   2 
+brightli   1 2 
+brilliant   1 3 
+bring   1 2 3 
+brink   2 3 
+brinvilli   2 
+brisk   3 
+briskli   3 
+bristl   1 2 3 
+british   1 2 3 
+briton   3 
+brixton   2 3 
+broach   2 
+broad   1 2 3 
+broadcloth   2 
+broaden   2 
+broader   1 2 
+broadleaf   3 
+broadmoor   3 
+broke   1 2 3 
+broken   1 2 3 
+broker   3 
+bronz   1 3 
+brood   1 3 
+brother   1 2 3 
+brotherinlaw   1 
+brougham   2 3 
+brought   1 2 3 
+brow   1 2 3 
+brown   1 2 3 
+brownback   2 
+brownfac   3 
+brownish   2 
+brows   2 
+bruis   1 2 3 
+bruiser   3 
+brun   3 
+brunett   1 3 
+brush   2 3 
+brusqu   1 2 
+brutal   1 3 
+brute   1 
+brutish   2 
+bubbl   1 
+buck   1 3 
+buckboard   3 
+bucket   1 
+buckl   2 
+buckshot   2 
+buckwheat   2 
+bud   2 
+buddha   3 
+budget   1 
+buffalo   2 
+buffelsspruit   3 
+bughunt   3 
+build   1 2 3 
+builder   3 
+built   1 2 3 
+bulbou   3 
+bulboushead   1 
+bulg   3 
+bulk   1 
+bulki   1 3 
+bull   2 3 
+bulldog   1 
+bullet   2 3 
+bulletin   3 
+bullhead   3 
+bulli   3 
+bullier   2 
+bullneck   2 
+bullock   2 
+bullseyesand   3 
+bumptiou   2 
+bundl   1 2 3 
+bundleth   1 
+bungl   2 
+bungler   2 
+bunnyrabbit   3 
+bunsen   2 
+burberri   3 
+burden   1 2 3 
+bureau   3 
+burgl   3 
+burglar   1 3 
+burglari   1 3 
+burglarunless   3 
+buri   1 2 3 
+burial   2 
+burli   3 
+burn   1 2 3 
+burrow   1 3 
+burst   1 2 3 
+bush   1 2 3 
+bushi   1 
+bushman   1 
+busi   1 2 3 
+busili   2 
+bustl   2 3 
+busybodi   1 2 3 
+but   1 2 3 
+butler   1 3 
+butt   1 2 3 
+butterfli   1 3 
+butterflynet   1 
+buttin   3 
+butyesit   3 
+buxom   3 
+buy   3 
+buzz   2 
+buzzard   2 
+by   1 2 3 
+bygon   1 
+bystand   3 
+byway   2 
+byword   1 
+c   2 3 
+cab   1 2 3 
+cabbi   2 
+cabdriv   2 
+cabinet   1 3 
+cabman   1 2 3 
+cabown   2 
+cadaver   3 
+cafe   3 
+cage   1 3 
+cairn   1 
+cajol   1 
+cake   2 
+calcin   3 
+calcul   1 2 3 
+calendar   2 3 
+calf   1 
+calibr   3 
+california   2 
+call   1 2 3 
+calledwa   2 
+caller   2 
+callos   2 
+calm   2 3 
+calmli   2 
+camberwel   2 
+came   1 2 3 
+cameo   1 
+camford   3 
+camp   2 3 
+campaign   1 2 3 
+can   1 2 3 
+canada   1 
+cand   3 
+candahar   2 
+candid   1 3 
+candl   1 2 3 
+candlepow   1 
+cane   1 2 3 
+canin   2 
+canopi   1 
+cant   1 2 3 
+cantlemer   3 
+canula   3 
+canva   1 3 
+canvascov   2 
+cap   1 2 3 
+capabl   1 2 3 
+capac   2 3 
+cape   3 
+capillata   3 
+capit   1 2 3 
+capric   3 
+captain   3 
+captiv   1 3 
+captor   3 
+captur   2 
+caraf   3 
+caravan   2 3 
+carbonari   2 
+card   1 2 3 
+cardcas   2 3 
+cardiac   1 
+cardplay   3 
+cardtray   3 
+care   1 2 3 
+career   1 2 3 
+careless   1 2 3 
+carelessli   2 
+carer   1 
+caress   3 
+caressingli   2 
+caretak   1 3 
+carina   3 
+carlo   3 
+carlton   3 
+carlyl   2 
+carol   2 
+carolina   1 
+carotid   3 
+carous   1 
+carpent   2 
+carpet   1 3 
+carri   1 2 3 
+carriag   1 2 3 
+carrion   3 
+carritonsth   3 
+carrydignifi   1 
+carson   2 
+cart   2 3 
+cartridg   2 3 
+cartwright   1 
+carv   3 
+case   1 2 3 
+casebook   3 
+caseharden   2 
+caseor   3 
+cash   3 
+cast   1 2 3 
+castaway   2 
+castl   3 
+casual   1 2 3 
+cat   1 3 
+catalogu   3 
+cataract   2 
+catastroph   1 3 
+catch   1 2 3 
+categori   2 
+cater   3 
+catlik   1 
+catoninetail   3 
+cattl   1 2 
+caught   1 2 3 
+caus   1 2 3 
+causeand   3 
+caution   1 2 3 
+cautionari   3 
+cautiou   1 
+cautious   1 3 
+cavalcad   2 
+cavali   1 2 
+cave   3 
+caveman   3 
+caãon   2 
+cc   1 
+cch   1 
+ceas   2 3 
+ceaseless   3 
+ceil   1 2 3 
+celebr   1 3 
+celer   3 
+celib   2 
+cell   2 3 
+cellar   3 
+celt   1 
+celtic   1 
+censur   3 
+cent   3 
+centr   1 2 3 
+central   1 2 3 
+centuri   1 2 3 
+ceram   3 
+cerebr   3 
+ceremoni   1 
+certain   1 2 3 
+certainli   1 2 3 
+certainti   1 2 3 
+certif   3 
+certifi   3 
+cesspool   2 3 
+cetera   3 
+chaf   2 
+chaff   3 
+chagrin   2 
+chain   1 2 3 
+chair   1 2 3 
+chairman   1 
+chalk   3 
+chalkpit   3 
+challeng   2 3 
+chamber   1 2 3 
+chambermaid   1 
+chamoi   3 
+champ   3 
+chanc   1 2 3 
+chang   1 2 3 
+changeabl   2 
+channel   1 2 3 
+chao   2 
+chap   1 2 3 
+chaparr   2 
+chapel   3 
+chapter   1 2 3 
+char   1 3 
+charact   1 2 3 
+characterist   1 2 3 
+chare   1 3 
+charg   1 2 3 
+chariti   1 3 
+charl   1 2 
+charless   1 
+charli   3 
+charm   1 3 
+charpenti   2 
+chart   2 3 
+chase   1 3 
+chasten   3 
+chat   1 2 3 
+chatter   2 
+chatti   3 
+check   1 2 3 
+checker   1 
+checkmat   1 
+cheek   1 2 3 
+cheer   1 2 3 
+cheeri   3 
+chees   2 3 
+cheeseman   3 
+chemic   2 3 
+chemist   2 3 
+chemistryprofound   2 
+chequer   3 
+cherub   3 
+chess   3 
+chesson   3 
+chessplay   3 
+chest   1 2 3 
+chestnut   2 
+chew   3 
+chicago   3 
+chicken   2 3 
+chief   1 2 3 
+child   1 2 3 
+childhood   2 3 
+childish   2 
+childless   1 
+childlik   3 
+children   2 3 
+chill   1 2 3 
+chilli   3 
+chime   1 2 
+chimer   1 2 
+chimney   1 3 
+chin   1 2 3 
+china   3 
+chines   3 
+chink   3 
+chip   2 3 
+chisel   2 3 
+chivalr   3 
+chloroform   3 
+chocol   3 
+choic   2 3 
+choke   2 3 
+choler   1 
+choos   1 2 3 
+chopin   2 
+chord   2 
+chorus   2 
+chose   2 3 
+chosen   1 2 3 
+christi   3 
+christian   1 2 
+chronicl   1 3 
+chubbi   2 3 
+chuckl   1 2 3 
+chum   3 
+church   2 3 
+cigar   1 2 3 
+cigarash   1 
+cigarett   1 3 
+cinder   3 
+circl   1 2 3 
+circlet   2 
+circu   2 3 
+circul   3 
+circular   1 
+circumfer   3 
+circumscrib   3 
+circumspect   1 
+circumspectli   1 
+circumst   1 2 3 
+citi   1 2 3 
+citizen   2 
+citizento   3 
+civil   2 3 
+civilis   2 
+clad   1 2 3 
+claim   1 2 3 
+claimant   1 
+clamor   3 
+clamp   3 
+clandestin   1 
+clang   1 
+clap   1 2 3 
+clarendon   1 
+claridg   3 
+clasp   3 
+class   2 3 
+classic   1 
+classifi   3 
+clatter   2 3 
+claw   3 
+clawmark   3 
+clay   1 2 3 
+clayey   2 
+clayton   1 
+clean   1 2 3 
+cleanli   1 2 
+cleanshaven   1 2 3 
+clear   1 2 3 
+clearcut   1 3 
+clearer   1 2 3 
+clearest   3 
+clearher   3 
+clearli   1 2 3 
+cleft   1 2 
+clench   1 2 3 
+clergi   3 
+clergyman   1 3 
+clerk   1 
+cleveland   2 
+clever   1 2 3 
+cleverli   1 3 
+click   1 2 3 
+client   1 2 3 
+cliff   1 2 3 
+climat   1 
+climax   2 
+climb   1 3 
+climber   3 
+cling   1 
+clink   1 
+clip   1 2 
+cloak   3 
+clock   1 3 
+clog   1 
+close   1 2 3 
+closer   1 2 3 
+closeso   3 
+closest   3 
+closet   1 
+clot   1 
+cloth   1 2 3 
+cloud   1 2 3 
+cloudi   2 
+cloudless   2 
+clown   3 
+club   1 3 
+clubleonardo   3 
+clue   1 2 3 
+clump   1 2 
+clumsi   1 2 
+clung   1 3 
+cluster   1 
+clutch   1 3 
+co   2 3 
+coach   1 3 
+coachman   1 3 
+coal   3 
+coalblack   1 3 
+coalown   1 
+coalscuttl   3 
+coars   1 2 3 
+coarsen   3 
+coarser   3 
+coast   1 3 
+coastlin   3 
+coat   1 2 3 
+coatofarm   1 
+coatour   2 
+coatsleev   2 
+coatsofarm   1 
+cob   1 
+cobra   3 
+cock   1 2 3 
+cockad   3 
+cockney   3 
+code   2 
+coffe   1 2 3 
+coffeecup   1 
+coffeepot   1 
+coffin   3 
+coffinlid   3 
+coffinpl   3 
+cogent   3 
+coher   1 
+coil   1 
+coin   3 
+coincid   1 2 3 
+coiner   3 
+cold   1 2 3 
+coldblood   1 
+coldblooded   2 
+colder   3 
+coldli   1 2 3 
+collabor   3 
+collar   1 2 3 
+colleagu   1 2 3 
+collect   1 2 3 
+collector   1 3 
+colleg   1 2 3 
+colonel   1 3 
+colorado   2 
+colour   1 2 3 
+colourless   1 2 3 
+colourman   3 
+colt   3 
+columbin   2 
+column   1 2 3 
+comb   3 
+combat   1 
+combin   1 2 3 
+come   1 2 3 
+comecom   3 
+comedi   3 
+comer   2 
+comfort   1 2 3 
+comfortless   2 
+comic   1 3 
+comin   3 
+command   1 2 3 
+commemor   2 
+commenc   2 
+commend   1 
+comment   1 2 3 
+commerci   3 
+commiser   2 
+commiseratingli   2 
+commiss   2 3 
+commissionair   2 3 
+commit   1 2 3 
+committe   1 
+common   1 2 3 
+commonplac   2 3 
+commonsens   1 
+commot   2 
+commun   1 2 3 
+commut   1 
+compani   1 2 3 
+companion   1 2 3 
+companionship   1 
+companionwho   3 
+compar   1 2 3 
+comparison   3 
+compass   2 3 
+compel   1 2 3 
+compens   2 3 
+compet   2 3 
+competit   2 
+complac   2 
+complain   1 2 3 
+complaint   1 3 
+complet   1 2 3 
+complex   1 2 3 
+compli   2 
+complic   1 2 3 
+compliment   1 2 3 
+compos   1 2 3 
+composit   2 
+compound   3 
+comprehens   2 
+compress   2 3 
+compris   2 
+compromis   1 2 3 
+compulsori   3 
+comrad   1 2 3 
+conan   1 2 3 
+conceal   1 2 3 
+concealsom   3 
+conceit   2 
+conceiv   1 3 
+concentr   1 2 3 
+concern   1 2 3 
+concernedth   3 
+concert   2 
+concertpitch   3 
+concess   3 
+conciliatori   3 
+conclud   1 2 3 
+conclus   1 2 3 
+condemn   3 
+condens   2 3 
+condit   1 2 3 
+condon   1 2 3 
+conduct   1 2 3 
+conductor   1 
+condyl   3 
+confeder   1 3 
+confer   3 
+confess   1 2 3 
+confid   1 2 3 
+confidant   3 
+confidenti   3 
+confin   1 3 
+confirm   1 2 3 
+conflict   2 
+conform   2 
+confound   1 2 3 
+confront   1 2 3 
+confus   1 2 3 
+congeni   1 
+congratul   1 2 3 
+conic   3 
+conjectur   1 2 3 
+conjunct   1 
+conjur   2 
+conjuror   2 
+connect   1 2 3 
+connoisseur   1 3 
+conquest   3 
+conquistador   3 
+conscienc   1 3 
+conscienti   1 
+consciou   1 2 3 
+conscious   2 
+consecr   3 
+consecut   3 
+consent   1 2 3 
+consequ   1 2 3 
+consid   1 2 3 
+consider   1 2 3 
+consist   1 2 3 
+consol   1 2 
+conspicu   2 
+conspiraci   1 
+constabl   1 2 3 
+constabulari   1 3 
+constabularya   3 
+constanc   2 3 
+constant   1 2 3 
+constantli   1 
+constern   2 3 
+constitut   2 3 
+constrain   3 
+constraint   3 
+constrict   3 
+construct   1 2 
+constructor   3 
+consult   1 2 3 
+consum   1 3 
+consumm   3 
+consumpt   1 
+contact   1 2 3 
+contagi   3 
+contagion   3 
+contain   1 2 3 
+contemplar   2 
+contemporari   2 
+contempt   2 3 
+contemptu   3 
+contend   2 3 
+content   1 2 3 
+context   3 
+contin   2 3 
+continent   2 3 
+continu   1 2 3 
+contort   1 2 3 
+contract   3 
+contractor   1 
+contradict   3 
+contrari   1 2 3 
+contrast   1 2 3 
+contribut   3 
+contriv   1 2 3 
+control   1 3 
+convalesc   2 
+conveni   1 2 
+convenientif   3 
+convent   3 
+conventionalshockingli   2 
+convers   1 2 3 
+convert   1 2 
+convex   1 
+convey   1 3 
+convict   1 2 3 
+convinc   1 2 3 
+convuls   1 2 3 
+coo   3 
+cook   1 2 3 
+cool   1 2 3 
+coolli   3 
+coomb   1 
+coop   2 3 
+cooper   3 
+cop   3 
+copenhagen   2 
+copernican   2 
+copi   1 3 
+copper   3 
+cops   1 
+coptic   3 
+coquettish   3 
+cordial   1 2 
+coreligionist   2 
+cork   1 
+cormor   3 
+corner   1 2 3 
+cornerhous   3 
+cornfield   2 
+coron   1 3 
+coronet   3 
+corp   2 3 
+corps   3 
+corpuscl   2 
+correct   1 2 3 
+correctli   1 2 
+correspond   1 2 3 
+correspondenth   3 
+corridor   1 2 3 
+corrobor   1 2 
+corrod   1 
+corrug   3 
+corrupt   2 
+cost   1 2 3 
+costa   1 
+costli   1 
+costum   3 
+cot   3 
+cottag   1 3 
+cotton   1 3 
+cottonwool   3 
+couch   1 3 
+cough   1 3 
+could   1 2 3 
+couldnt   1 2 3 
+council   2 
+counsel   1 3 
+counsellor   3 
+count   1 3 
+counten   1 2 
+counter   3 
+counteract   1 
+counterfeit   3 
+countersign   2 
+counti   1 3 
+countless   1 2 
+countri   1 2 3 
+countryman   1 
+countrysid   1 3 
+coup   3 
+coupl   1 2 3 
+courag   1 2 3 
+cours   1 2 3 
+coursethat   3 
+court   1 2 3 
+courteou   3 
+courtier   3 
+courtli   3 
+cousin   1 
+cove   2 3 
+coventri   3 
+cover   1 2 3 
+coverlet   2 
+covert   2 3 
+covet   1 3 
+cow   1 2 3 
+coward   1 2 3 
+cower   2 
+cowper   2 
+cox   3 
+coyot   2 
+crab   3 
+crack   1 2 3 
+crackl   1 
+craft   1 
+crafti   1 3 
+crag   2 
+craggi   1 3 
+cram   3 
+crane   1 2 
+craniolog   1 
+crank   1 
+crash   1 2 3 
+cravat   2 3 
+crave   2 
+craven   1 
+crawl   1 2 3 
+crawler   3 
+craze   1 2 
+crazi   1 3 
+crazythi   1 
+creak   1 2 3 
+creat   1 
+creatur   1 2 3 
+credit   1 2 3 
+creditor   3 
+credul   1 
+creed   2 
+creep   1 2 3 
+creeper   1 3 
+cremona   2 
+crendal   3 
+crenel   1 
+crept   1 2 
+crest   1 3 
+crestfallen   2 
+crevic   1 
+crew   3 
+cri   1 2 3 
+criedholm   1 
+crime   1 2 3 
+crimean   3 
+crimin   1 2 3 
+criminolog   1 
+crimson   3 
+cripe   3 
+crippl   1 3 
+crisi   1 2 3 
+crisp   1 2 3 
+crisscross   3 
+criterion   2 
+critic   1 3 
+croak   1 
+crockeri   3 
+crockford   3 
+cromagnon   3 
+crone   2 
+croni   2 
+crop   2 
+cross   1 2 3 
+crossexamin   1 2 3 
+crossquest   1 
+crouch   1 2 3 
+crow   3 
+crowd   1 2 3 
+crown   2 3 
+croy   2 
+crucial   2 
+crude   3 
+crudest   1 
+cruel   1 3 
+cruelheart   1 
+cruelti   3 
+crumb   3 
+crumbl   1 3 
+crumpl   2 3 
+crush   1 2 3 
+crya   3 
+cryin   2 
+crypt   3 
+crystal   2 3 
+cudgel   2 3 
+cuff   2 3 
+cuffsbi   2 
+culmin   3 
+cultiv   1 
+cultur   3 
+cum   3 
+cun   1 2 3 
+cunard   3 
+cup   3 
+cupboard   3 
+cuplik   1 
+cur   2 
+curabl   3 
+curar   3 
+curb   2 3 
+cure   3 
+curios   1 2 3 
+curiou   1 3 
+curious   1 3 
+curl   1 2 3 
+curlew   1 
+curlyhair   1 
+curlyhead   1 
+curmudgeon   3 
+current   3 
+curs   1 2 3 
+curt   1 2 
+curtain   1 3 
+curtainless   3 
+curtli   2 
+curtsey   2 
+curv   1 3 
+curzon   3 
+cushion   2 3 
+custodi   2 
+custom   1 2 3 
+customari   3 
+cut   1 2 3 
+cutter   1 3 
+cutthroat   2 
+cyanea   3 
+cycl   3 
+cyclic   3 
+cyclopid   1 
+cynic   3 
+d   2 3 
+dabbl   1 2 
+dabbler   1 
+dace   3 
+daddi   3 
+dai   1 
+daili   2 3 
+dainti   1 2 3 
+dairi   2 
+dame   3 
+dameri   3 
+damn   2 3 
+damnabl   3 
+damp   1 3 
+damper   1 
+danc   1 
+danger   1 2 3 
+dangerev   1 
+dangersign   3 
+dangl   1 3 
+danish   2 
+danit   2 
+dapper   1 
+dare   1 2 3 
+daredevil   1 3 
+dark   1 2 3 
+darken   2 3 
+darker   1 3 
+darkest   1 2 
+darkey   1 2 3 
+darkl   1 
+darl   2 
+darlinggoodby   2 
+darn   2 
+dart   1 2 3 
+dartmoor   1 
+darwin   2 
+darwinian   2 
+dash   1 2 3 
+data   2 3 
+date   1 2 3 
+daub   1 
+daughter   1 2 3 
+daughterand   2 
+daughterwhat   2 
+daunt   1 
+dawn   2 3 
+day   1 2 3 
+daybreak   2 
+daylight   1 3 
+daythursday   1 
+daytwo   1 
+daze   2 3 
+dazzl   2 
+de   1 3 
+dead   1 2 3 
+deadcolour   2 
+deaddown   3 
+deaden   1 
+deader   2 
+deadfish   3 
+deadli   1 2 3 
+deadlock   1 
+deaf   1 
+deal   1 2 3 
+dealer   1 3 
+dealt   3 
+dear   1 2 3 
+dearest   3 
+deari   2 
+dearli   3 
+death   1 2 3 
+deathand   1 
+deathblow   3 
+deathchamb   3 
+deathli   1 
+deathmark   3 
+deathwel   1 
+debat   3 
+debonair   3 
+debri   1 2 3 
+debt   1 2 
+debtor   3 
+debut   3 
+decad   1 
+decameron   2 
+decamp   2 
+decant   1 
+decay   1 2 3 
+deceas   1 2 3 
+deceit   2 
+deceiv   1 3 
+decenc   3 
+decent   2 3 
+decept   1 3 
+decid   1 2 3 
+decis   1 2 
+declar   1 3 
+declin   3 
+decor   1 2 
+decoy   1 3 
+decreas   1 
+decrepit   2 3 
+deduc   1 2 3 
+deduct   1 2 3 
+deed   1 2 3 
+deedbox   3 
+deep   1 2 3 
+deepblu   3 
+deepen   2 
+deeper   3 
+deepest   1 3 
+deepli   1 2 3 
+deeplin   3 
+deepset   1 
+deer   3 
+defac   1 
+defectsif   1 
+defectwa   1 
+defenc   3 
+defenceless   3 
+defend   1 
+defi   1 2 
+defiant   1 2 
+defiantli   1 2 3 
+defici   1 
+defil   1 2 
+defin   1 3 
+defineda   3 
+definit   1 2 3 
+deform   3 
+degener   3 
+degre   1 2 3 
+deject   1 
+delay   1 2 3 
+deliber   1 2 3 
+delic   1 2 3 
+delicaci   1 2 3 
+delight   1 2 3 
+delinqu   3 
+deliri   1 
+delirium   2 3 
+deliv   1 3 
+delugedth   1 
+delus   1 2 3 
+delux   3 
+demand   1 3 
+demeanour   2 
+dement   3 
+demon   1 2 3 
+demonstr   3 
+demor   3 
+demur   2 3 
+den   1 
+deni   1 2 3 
+denial   3 
+denni   2 
+dens   1 
+depart   1 2 3 
+departur   1 2 3 
+depend   1 2 3 
+deplor   3 
+depos   3 
+deposit   2 3 
+deprav   2 
+deprec   3 
+depreci   2 
+depreciatori   2 
+depress   1 2 3 
+depriv   2 
+depth   1 2 3 
+deputi   3 
+derbi   3 
+deris   2 3 
+deriv   3 
+dermatologist   3 
+descend   1 2 3 
+descent   3 
+describ   1 2 3 
+descript   1 2 3 
+desert   1 2 3 
+deserv   1 3 
+design   1 2 3 
+desir   1 2 3 
+desist   3 
+desk   3 
+desmond   1 
+desol   1 2 
+despair   1 2 3 
+desper   1 2 3 
+despis   3 
+despot   2 
+destin   1 2 3 
+destini   2 3 
+destitut   2 
+destroy   1 3 
+destruct   1 3 
+desultori   2 
+detach   1 2 3 
+detail   1 2 3 
+detain   2 3 
+detect   1 2 3 
+determin   1 2 3 
+deuc   2 3 
+deucedli   3 
+develop   1 2 3 
+devic   1 2 3 
+devil   1 2 3 
+devilish   1 3 
+devon   1 
+devonshir   1 
+devot   1 2 3 
+devour   2 
+dewlap   1 
+dexter   1 2 
+diabol   1 3 
+diagnosi   3 
+dial   3 
+dialect   1 
+dialogu   2 3 
+diamond   3 
+diari   1 3 
+dickenss   3 
+dictat   1 2 3 
+did   1 2 3 
+didnt   1 2 3 
+didsom   1 
+didthat   3 
+didwith   3 
+die   1 2 3 
+diethat   3 
+differ   1 2 3 
+differenthad   1 
+difficult   1 2 3 
+difficulti   1 2 3 
+difficultveri   3 
+diffid   2 
+dig   1 2 3 
+digest   3 
+dignifi   3 
+digniti   3 
+digress   2 3 
+dilapid   1 
+dilat   3 
+dilemma   3 
+dim   1 2 3 
+dime   1 
+diminish   1 2 
+dimli   3 
+dimpl   2 3 
+dine   1 3 
+dingi   1 2 3 
+dingiest   2 
+dininghal   1 
+diningroom   1 2 
+dinner   1 2 3 
+dip   1 2 3 
+diplomaci   3 
+direct   1 2 3 
+directli   3 
+directori   1 3 
+dirt   1 
+dirti   2 3 
+dirtiest   2 
+disadvantag   1 3 
+disagre   3 
+disappear   1 2 3 
+disappoint   1 2 3 
+disapprob   1 
+disapprov   3 
+disarm   1 2 
+disarrang   1 2 3 
+disast   1 2 3 
+disastr   1 
+disbelievestori   2 
+disc   1 
+discern   1 
+discharg   3 
+disclaim   3 
+disclos   1 2 3 
+discolour   2 3 
+disconnect   1 
+disconsol   2 3 
+discourag   1 2 
+discourtesi   3 
+discov   1 2 3 
+discoveri   1 2 3 
+discreet   1 3 
+discreetli   3 
+discret   3 
+discuss   1 2 3 
+diseas   1 2 3 
+diseaseeveri   2 
+disengag   3 
+disfavour   1 
+disfigur   3 
+disgrac   1 2 
+disguis   1 2 3 
+disgust   2 
+disgustingli   2 
+dish   3 
+dishearten   1 
+dishevel   3 
+dishonour   2 
+disinfect   3 
+disinherit   3 
+disk   2 
+dislik   3 
+dismal   1 2 3 
+dismay   1 
+dismiss   3 
+dismount   2 
+disobedi   2 
+disord   1 3 
+dispatch   1 2 3 
+dispatchbox   3 
+dispatchcas   3 
+dispel   2 3 
+dispens   2 3 
+displac   1 3 
+display   1 3 
+displeas   2 
+displeasur   1 
+dispos   1 2 3 
+disposit   1 2 3 
+dispossess   1 
+disqualifi   3 
+disquisit   2 
+disregard   1 3 
+disrememb   2 
+disreput   1 2 3 
+dissatisfi   2 
+dissectingroom   2 
+dissent   1 
+dissip   3 
+dissolv   2 
+dissuad   1 
+distanc   1 2 3 
+distant   1 2 3 
+distast   1 
+distend   2 
+distinct   1 2 3 
+distinctli   1 3 
+distinguish   1 2 3 
+distort   2 3 
+distortionso   1 
+distract   1 3 
+distrait   1 3 
+distress   1 2 
+district   1 2 3 
+distrust   1 
+disturb   2 3 
+disus   3 
+dive   1 3 
+divert   2 
+divid   1 2 3 
+divis   2 
+divorc   1 
+dixi   3 
+do   1 2 3 
+doand   3 
+dock   3 
+docket   3 
+doctor   1 2 3 
+doctorif   3 
+doctoril   2 
+doctorthat   3 
+doctrin   1 2 
+document   1 2 3 
+dodd   3 
+dodder   1 3 
+dodg   3 
+doe   1 2 3 
+doesnt   2 3 
+dog   1 2 3 
+dogcart   1 
+dogfanci   3 
+dogkennel   3 
+doif   3 
+doingbut   1 
+dolichocephal   1 
+dollar   1 2 3 
+dolor   3 
+dolski   2 
+domain   3 
+domest   1 
+domi   2 
+domicil   2 
+domin   1 3 
+donat   1 
+done   1 2 3 
+doneup   2 
+dont   1 2 3 
+doom   1 3 
+door   1 2 3 
+doorhandl   3 
+doorstep   1 3 
+doorway   2 3 
+dorak   3 
+doraka   3 
+dormitori   3 
+dose   3 
+doso   3 
+doss   3 
+dossier   3 
+dot   1 3 
+dote   3 
+doubl   1 
+doublecross   3 
+doubli   2 
+doubt   1 2 3 
+dougla   3 
+douglasand   3 
+douglass   3 
+down   1 2 3 
+downcast   3 
+downhil   3 
+downland   3 
+downright   1 
+downstair   2 3 
+downward   1 3 
+dowson   3 
+doyl   1 2 3 
+dozen   2 3 
+dr   1 2 3 
+drag   1 2 3 
+dragon   3 
+drain   2 
+drama   3 
+dramat   1 3 
+drank   2 
+drape   1 
+draperi   3 
+draught   2 
+draw   1 2 3 
+drawback   3 
+drawer   2 3 
+drawingroom   3 
+drawn   1 2 3 
+dread   1 2 3 
+dream   1 3 
+dreamer   1 3 
+dreami   2 3 
+dreamless   2 
+dreari   1 2 
+dreariest   2 
+drebber   2 
+dress   1 2 3 
+dressdidnt   2 
+dresser   2 
+dressinggown   1 3 
+drew   1 2 3 
+dri   1 2 3 
+driedup   2 
+drift   1 2 3 
+drili   1 
+drill   3 
+drink   1 2 3 
+drinkwith   1 
+drip   1 2 3 
+drive   1 2 3 
+driven   1 2 3 
+driver   1 2 
+drivingpow   3 
+drivingwheel   1 
+drizzl   1 
+droop   2 3 
+drop   1 2 3 
+dropsi   3 
+drove   1 2 3 
+drown   3 
+drug   3 
+drum   2 3 
+drunk   2 3 
+drunken   1 2 3 
+dryingroom   3 
+dubiou   3 
+due   3 
+duellist   3 
+dug   1 
+duke   3 
+duli   1 2 3 
+dull   1 2 3 
+dulli   3 
+dullless   1 
+dumbfound   2 
+dummi   3 
+dump   2 
+dunbar   3 
+dunbaror   3 
+duncan   2 
+duncolour   2 
+dunderhead   2 
+dupe   1 
+dupin   2 
+duplic   2 3 
+dure   2 3 
+dusk   1 
+duski   1 
+dust   2 3 
+dusti   1 2 
+dutch   3 
+dutchman   3 
+duti   1 2 3 
+dutyin   3 
+dwarfish   2 
+dwarflik   3 
+dwell   1 2 3 
+dweller   2 
+dwelt   1 3 
+dwindl   2 
+dye   2 
+dyingdi   2 
+dynasti   3 
+dyspnoea   1 
+e   2 3 
+each   1 2 
+eachfourteen   2 
+eager   1 2 3 
+eagerli   1 2 3 
+eagl   2 3 
+ear   1 2 3 
+earli   1 2 3 
+earlier   1 2 3 
+earn   1 2 3 
+earnest   1 2 3 
+earnestey   2 
+earnestli   1 2 3 
+earth   1 2 3 
+earthabov   2 
+earthand   3 
+earthli   2 3 
+eas   1 2 3 
+easi   1 2 3 
+easier   1 2 3 
+easili   1 2 3 
+east   1 2 
+eastern   2 3 
+eat   1 2 3 
+eatabl   2 
+eaten   3 
+eav   1 
+eboni   1 
+eccentr   1 2 3 
+echo   1 2 3 
+ecstat   3 
+eddi   3 
+edg   1 2 3 
+edgar   2 
+edgwar   3 
+edific   3 
+edison   1 
+edit   2 3 
+edith   3 
+edithmiss   3 
+edmund   3 
+educ   1 3 
+edward   3 
+eel   3 
+effac   1 3 
+effect   1 2 3 
+effici   2 
+effigi   1 3 
+effort   1 2 3 
+effronteri   3 
+effus   2 
+egg   2 3 
+eggshel   3 
+egyptian   2 
+eh   1 2 3 
+eight   3 
+eightandforti   2 
+eighteen   2 
+eighteenth   1 3 
+eighti   2 3 
+either   2 3 
+ejacul   2 3 
+eke   2 
+elabor   1 
+elast   2 3 
+elbow   1 2 3 
+elder   1 2 
+elderli   1 2 3 
+elderswomen   2 
+elect   1 2 
+electr   1 3 
+electron   1 2 3 
+electrotelegraph   2 
+eleg   1 2 3 
+element   3 
+elementari   1 2 3 
+eleph   3 
+elev   2 3 
+eleven   2 3 
+elicit   1 
+elig   1 3 
+elimin   1 3 
+elixir   3 
+eliza   1 
+elizabeth   1 
+elizabethan   1 3 
+elman   3 
+elop   3 
+eloqu   2 3 
+els   1 2 3 
+elucid   1 
+em   3 
+emaci   2 
+eman   3 
+embarrass   1 2 3 
+emblem   2 
+embrac   2 3 
+emerg   1 2 3 
+emin   3 
+emissari   3 
+emot   1 2 3 
+emperor   3 
+emphasi   2 3 
+emphat   3 
+empir   2 
+employ   1 2 3 
+employe   3 
+empti   1 2 3 
+emsworth   3 
+enabl   1 2 3 
+encircl   2 
+enclosur   3 
+encount   3 
+encourag   1 2 3 
+end   1 2 3 
+endan   3 
+endang   1 2 
+endear   2 
+endeavour   1 2 3 
+endless   3 
+endow   2 
+endur   1 2 3 
+enemi   1 2 3 
+enemya   3 
+enemyit   1 
+energet   1 2 
+energi   1 2 3 
+enforc   3 
+engag   1 2 3 
+engin   2 
+england   1 2 3 
+englandsecond   3 
+englandslim   1 
+english   1 2 3 
+engrav   1 2 
+engross   2 
+enigmat   2 
+enjoin   3 
+enjoy   2 3 
+enlarg   3 
+enlighten   2 3 
+enmiti   2 
+enoch   2 
+enorm   1 2 
+enough   1 2 3 
+enoughan   3 
+enquir   2 
+enquiri   2 
+enrag   3 
+ensur   2 
+entail   1 
+entangl   1 3 
+enter   1 2 3 
+enterpris   3 
+enthusiasm   1 2 
+enthusiast   1 2 
+entir   1 2 3 
+entitl   1 
+entomb   3 
+entomolog   1 
+entranc   1 2 3 
+entre   3 
+entreati   2 
+entrust   2 3 
+enumer   2 
+envelop   1 2 3 
+epidem   1 
+epilept   2 
+episod   1 2 3 
+epitaph   2 
+epitheli   3 
+epithet   2 
+equal   1 2 3 
+equanim   3 
+equestrian   1 
+equip   1 
+equivoc   1 
+era   3 
+ere   1 3 
+erect   2 3 
+ernest   3 
+errand   1 3 
+erron   1 
+error   2 
+erupt   2 
+erysipela   3 
+escap   1 2 3 
+escort   2 
+especi   1 2 3 
+esquimau   1 
+essay   1 
+essenti   1 2 3 
+essex   3 
+establish   1 2 3 
+estat   1 3 
+esteem   2 3 
+estim   3 
+estrang   3 
+et   3 
+etc   3 
+ether   3 
+euclid   2 
+eugenia   3 
+europ   1 2 3 
+european   3 
+euston   2 3 
+evacu   3 
+evan   3 
+evas   2 
+eve   3 
+even   1 2 3 
+event   1 2 3 
+eventu   1 3 
+ever   1 2 3 
+everi   1 2 3 
+evermor   2 
+everybodi   1 
+everyday   2 
+everyon   3 
+everyth   1 2 3 
+everywher   2 3 
+evid   1 2 3 
+evil   1 2 3 
+evilsmel   3 
+evolv   2 3 
+ex   2 
+exact   1 2 3 
+exactdr   1 
+exactli   1 2 3 
+exagger   1 2 3 
+exalt   1 3 
+examin   1 2 3 
+exampl   1 3 
+exasper   2 
+excav   1 
+exce   1 
+exceed   2 
+exceedingli   1 2 3 
+excel   1 2 3 
+excelsior   3 
+except   1 2 3 
+excess   2 3 
+exchang   2 3 
+excit   1 2 3 
+excitedli   3 
+excitementth   3 
+exclaim   2 
+exclam   1 2 
+exclud   3 
+exclus   2 3 
+excurs   1 3 
+excus   1 2 3 
+execr   3 
+execution   2 
+executor   1 
+exercis   1 2 3 
+exert   1 2 3 
+exhaust   1 2 3 
+exhibit   1 2 3 
+exist   1 2 3 
+exit   1 3 
+exoner   3 
+exot   1 
+expans   1 3 
+expect   1 2 3 
+expectantli   2 
+expedi   1 
+expedit   1 2 
+expens   1 2 3 
+experi   1 2 3 
+experienc   1 3 
+expert   1 2 3 
+explain   1 2 3 
+explan   1 3 
+explanatori   1 
+explod   3 
+exploit   1 3 
+explor   1 2 3 
+explos   2 3 
+expos   1 2 3 
+expostul   2 
+exposur   1 2 3 
+express   1 2 3 
+expressli   1 
+exquisit   1 3 
+extend   1 3 
+extens   1 
+extent   1 2 3 
+extenu   3 
+exterior   3 
+extern   3 
+extinct   1 
+extinctin   1 
+extinguish   2 
+extirp   3 
+extra   1 
+extract   1 2 3 
+extraordinari   1 2 3 
+extraordinarili   1 2 3 
+extravas   3 
+extrem   1 2 3 
+extric   1 2 
+exuber   2 
+exult   1 2 
+exultantli   2 
+eye   1 2 3 
+eyebrow   1 2 3 
+eyelash   2 
+eyelid   1 2 3 
+eyepiec   3 
+eyesey   1 
+eyesi   3 
+eyewit   3 
+f   3 
+face   1 2 3 
+facea   3 
+facehi   2 
+facial   1 
+facilit   2 
+facsimil   2 3 
+fact   1 2 3 
+factor   1 
+factori   2 
+factswho   3 
+faculti   1 2 3 
+fad   3 
+fade   1 2 3 
+fadedi   3 
+fail   1 2 3 
+failur   3 
+fain   2 
+faint   1 2 3 
+faintli   2 3 
+fair   1 2 3 
+fairhair   2 3 
+fairi   1 3 
+fairli   1 2 3 
+faith   1 2 3 
+faithless   3 
+fake   3 
+falder   3 
+fall   1 2 3 
+fallaci   1 
+fallen   1 2 3 
+fals   1 2 3 
+falsehood   2 
+falsetto   3 
+falter   2 
+fame   3 
+famili   1 2 3 
+familiar   1 2 3 
+famou   1 2 3 
+fanat   3 
+fanci   1 2 3 
+fancier   3 
+fang   1 3 
+fanlight   3 
+fantast   1 2 3 
+far   1 2 3 
+faraway   2 3 
+fare   1 2 
+farewel   3 
+farfetch   2 3 
+farm   1 2 3 
+farmer   1 2 3 
+farmhous   1 2 3 
+farrier   1 
+farther   1 3 
+farthest   1 
+fascin   1 3 
+fashion   1 2 3 
+fast   1 2 3 
+fasten   1 2 3 
+faster   3 
+fat   2 3 
+fatal   1 2 3 
+fate   1 2 3 
+father   1 2 3 
+fatherand   3 
+fathom   1 2 
+fatigu   1 2 
+fatuou   3 
+fault   1 2 3 
+favour   1 2 3 
+favourit   1 2 3 
+fear   1 2 3 
+fearinspir   2 
+fearless   2 
+fearsom   2 
+feather   2 
+featur   1 2 3 
+februari   3 
+fed   1 
+fee   2 3 
+feebl   1 2 3 
+feebli   2 
+feed   3 
+feel   1 2 3 
+feelin   3 
+feet   1 2 3 
+fell   1 2 3 
+fellor   3 
+fellow   1 2 3 
+fellowin   3 
+fellowlodg   2 
+fellowmort   2 
+fellowstud   3 
+fellowtravel   2 
+feloni   1 3 
+felt   1 2 3 
+femal   2 3 
+feminin   3 
+femur   3 
+fenc   1 2 3 
+ferguson   3 
+fern   1 3 
+fernworthi   1 
+feroc   1 2 
+feroci   3 
+ferret   2 
+ferretlik   2 
+ferrier   2 
+ferrul   1 
+fertil   1 2 
+fervour   3 
+festiv   2 
+fetch   2 
+feud   2 3 
+fever   1 2 3 
+feverish   1 3 
+few   2 
+fewer   3 
+fewest   3 
+fianc   3 
+fiance   3 
+fiancã   3 
+fib   3 
+fibr   3 
+fickl   3 
+fiction   3 
+fiddl   2 3 
+fidel   1 
+fidget   3 
+field   1 2 3 
+fiend   1 3 
+fiendish   1 3 
+fierc   1 2 3 
+fierceey   2 
+fieri   1 3 
+fifteen   3 
+fifth   2 
+fiftysix   3 
+fight   1 2 3 
+figur   1 2 3 
+filament   3 
+file   2 3 
+filial   3 
+fill   1 2 3 
+filthi   3 
+final   1 2 3 
+finali   3 
+financ   2 
+financi   3 
+find   1 2 3 
+fine   1 2 3 
+finer   3 
+finess   1 
+finest   2 3 
+finetooth   3 
+fineveri   3 
+finger   1 2 3 
+fingermark   3 
+fingernail   2 
+fingertip   1 3 
+finish   1 2 3 
+fir   1 
+fire   1 2 3 
+firearm   3 
+fireplac   1 2 3 
+firm   1 2 3 
+firmer   1 
+firmli   2 3 
+firmset   1 
+first   1 2 3 
+firstclass   1 2 3 
+fish   3 
+fishbelli   3 
+fisherman   3 
+fishermenar   3 
+fishingboat   3 
+fissur   1 
+fist   1 2 3 
+fit   1 2 3 
+fitzroy   3 
+five   2 3 
+fiveclaw   3 
+fiveforti   1 
+fivepound   1 
+fix   1 2 3 
+fixedli   1 
+fixtur   1 
+flag   2 
+flagon   1 
+flagrant   3 
+flakeysuch   2 
+flamboy   3 
+flame   1 2 3 
+flamelik   3 
+flank   1 2 3 
+flap   2 3 
+flare   1 2 
+flash   1 2 3 
+flask   1 
+flat   1 2 3 
+flatfoot   3 
+flatten   1 2 3 
+flatter   1 2 3 
+flatteri   2 
+flavour   3 
+flaw   2 3 
+flaxen   2 3 
+flaxenhair   1 2 
+fleck   1 2 
+fled   1 
+fleet   1 
+flesh   1 2 3 
+fleshi   1 2 
+flew   1 2 
+flexibl   3 
+fli   1 2 3 
+flick   3 
+flicker   1 2 3 
+flickerin   2 
+flight   1 2 
+fling   2 3 
+flint   3 
+flinttip   1 
+flippantli   1 
+flit   2 
+float   1 2 3 
+flock   2 3 
+flog   3 
+flood   1 3 
+floor   1 2 3 
+flop   3 
+florid   2 3 
+flounc   3 
+flounder   1 
+flourish   1 
+flow   1 3 
+flower   2 3 
+flown   3 
+fluid   2 
+flung   1 2 3 
+flurri   1 
+flush   1 2 3 
+flutter   1 2 
+flyleaf   2 
+flyth   3 
+foam   1 3 
+focuss   3 
+foeman   1 
+fog   1 2 
+fogbank   1 
+foggi   1 2 3 
+fogwreath   1 
+foil   1 2 
+fold   1 2 3 
+foliag   1 
+folio   3 
+folk   1 2 3 
+folkeston   1 
+folli   2 
+follow   1 2 3 
+fond   1 2 3 
+fondl   3 
+food   1 2 3 
+foodcarri   3 
+fool   1 2 3 
+foolish   1 3 
+foolscap   1 3 
+fooltrick   3 
+foot   1 2 3 
+footfal   2 
+foothold   3 
+footman   3 
+footmark   1 2 3 
+footmen   3 
+footpath   2 
+footprint   1 
+footsor   2 
+footstep   1 2 3 
+for   1 2 3 
+forbad   2 
+forbear   1 
+forbid   1 2 3 
+forbidden   2 3 
+forc   1 2 3 
+forcibl   2 3 
+fore   2 3 
+forearm   1 
+forebear   3 
+forefing   1 2 
+forefingerhav   3 
+foregath   3 
+forehead   1 2 3 
+foreign   1 2 3 
+forelock   2 
+forenoonit   3 
+forerunn   2 
+foresaw   1 3 
+forese   1 3 
+foreseen   2 
+forestal   3 
+forev   1 2 3 
+forfeit   1 2 
+forg   3 
+forger   3 
+forgeri   1 2 3 
+forget   1 2 3 
+forgiv   1 2 3 
+forgot   1 2 3 
+forgotten   1 2 3 
+forin   3 
+fork   2 
+form   1 2 3 
+formal   1 3 
+formand   3 
+format   1 2 3 
+former   2 
+formerli   2 
+formid   1 2 3 
+fort   3 
+forth   1 2 3 
+forthcom   3 
+forthwith   1 
+forti   3 
+fortitud   3 
+fortnight   1 3 
+fortun   1 2 3 
+fortyeight   1 
+fortyf   3 
+fortyfour   2 3 
+fortyseven   2 
+fortythre   2 
+fortytwo   3 
+forward   1 2 3 
+forwardit   3 
+fossil   3 
+fosterfath   3 
+foul   1 2 3 
+foulest   3 
+foulmir   1 
+found   1 2 3 
+foundat   3 
+four   1 2 3 
+fourfigur   3 
+fourteen   1 
+fourth   1 2 
+fourwheel   2 
+fox   1 
+foxhound   2 
+fragil   2 
+fragment   2 3 
+fraid   3 
+frail   2 
+frame   1 3 
+framework   2 3 
+frank   1 2 3 
+frankest   1 3 
+frankfort   2 
+frankland   1 
+frankli   1 3 
+frantic   2 3 
+fraser   1 
+fratern   3 
+fraud   3 
+fray   1 3 
+freak   1 3 
+freckl   1 
+free   1 2 3 
+freeborn   2 
+freed   1 
+freedom   1 2 3 
+freeli   2 3 
+freez   1 
+french   1 3 
+frenzi   3 
+frequent   1 2 3 
+fresh   1 2 3 
+fret   2 
+friday   1 3 
+friend   1 2 3 
+friendless   2 
+friendli   1 2 3 
+friendship   1 3 
+friendshipth   3 
+fright   1 2 
+frighten   1 2 3 
+frigid   3 
+fring   1 2 
+frinton   3 
+friski   3 
+frivol   3 
+frock   2 3 
+frockcoat   1 3 
+froglik   3 
+from   1 2 3 
+front   1 3 
+frontal   3 
+frost   3 
+froth   1 
+fruit   1 2 3 
+fruitless   1 2 
+fugit   2 3 
+fulfil   1 2 
+fulham   1 
+full   1 2 3 
+fullblood   2 
+fuller   2 3 
+fullest   1 
+fulli   3 
+fulsom   1 
+fulworth   3 
+fumbl   2 3 
+fume   1 2 
+fun   2 
+fund   2 
+funni   2 3 
+furi   1 2 3 
+furiou   1 2 3 
+furious   1 2 3 
+furlong   3 
+furnac   3 
+furnish   1 2 3 
+furnitur   2 3 
+furrow   3 
+furtiv   1 3 
+fusili   2 
+fuss   3 
+fussi   3 
+fust   2 
+futil   3 
+futur   1 2 3 
+g   3 
+ga   3 
+gabl   1 3 
+gaboriau   2 
+gabriel   3 
+gaelic   1 
+gag   1 
+gain   1 2 3 
+gainsaid   1 
+gainsay   3 
+gait   3 
+gale   3 
+gallant   3 
+galleri   1 3 
+gallop   1 2 3 
+gallow   3 
+gambit   3 
+gambl   3 
+gamblingden   3 
+game   1 2 3 
+gamekeep   3 
+gameshot   3 
+gang   2 3 
+gap   1 2 3 
+gape   1 3 
+garbag   3 
+garcia   1 
+garden   1 2 3 
+garment   2 
+garret   3 
+garrideb   3 
+gash   3 
+gasogen   3 
+gasp   1 2 3 
+gaspip   3 
+gate   1 2 3 
+gateway   1 3 
+gather   1 2 3 
+gaudi   2 
+gaug   2 
+gaunt   2 3 
+gave   1 2 3 
+gay   3 
+gaze   1 2 3 
+gener   1 2 3 
+generos   1 
+genial   2 
+geniu   1 2 3 
+genlman   3 
+genlmen   3 
+gent   1 
+gentespublish   2 
+gentil   2 
+gentl   2 3 
+gentleman   1 2 3 
+gentlemen   1 2 3 
+gentlemenno   3 
+gentli   1 2 3 
+gentri   1 
+genuin   2 3 
+geolog   3 
+geologypract   2 
+georg   1 2 3 
+georgian   3 
+geranium   3 
+german   1 2 3 
+germani   3 
+gesticul   1 
+gestur   1 2 3 
+get   1 2 3 
+getaway   3 
+getup   2 
+ghastli   1 2 3 
+ghazi   2 
+ghost   1 2 3 
+giant   1 2 3 
+gibber   3 
+gibson   3 
+gift   1 3 
+gig   1 
+gigant   1 2 
+gila   3 
+gin   2 
+gingermoustach   3 
+gipsi   1 
+girl   1 2 3 
+girlhood   1 2 
+girlish   2 
+girt   1 3 
+give   1 2 3 
+given   1 2 3 
+giver   3 
+glad   1 2 3 
+gladli   2 
+glamour   3 
+glanc   1 2 3 
+glare   1 2 3 
+glass   1 2 3 
+glasshous   3 
+glasstop   1 
+glaze   2 3 
+gleam   1 2 3 
+glean   3 
+glee   1 
+gleefulli   2 
+glen   2 
+glide   1 
+glimmer   1 3 
+glimps   1 2 3 
+glint   2 
+glisten   2 
+glitter   1 2 3 
+gloom   1 3 
+gloomi   1 2 3 
+glori   1 3 
+gloria   3 
+gloriou   3 
+gloss   1 
+glossi   3 
+gloucest   1 
+glove   3 
+glow   1 2 
+glu   3 
+glue   3 
+gnarl   1 
+gnaw   1 2 
+go   1 2 3 
+goad   2 3 
+goal   3 
+goat   1 3 
+gobetween   3 
+gocairo   3 
+god   1 2 3 
+godforsaken   1 
+godfrey   3 
+godless   1 2 
+godno   1 
+godsa   2 
+godth   2 
+goe   1 2 3 
+goin   2 
+goingson   1 
+gold   1 2 3 
+golden   1 2 3 
+goldengreen   1 
+goldenhair   3 
+goldhunt   3 
+goldmin   3 
+goldrim   1 
+gone   1 2 3 
+good   1 2 3 
+goodafternoon   3 
+goodby   1 2 3 
+goodbyebut   3 
+goodday   1 
+goodeven   3 
+goodferri   2 
+goodli   2 3 
+goodlook   3 
+goodmorn   1 3 
+goodmornin   3 
+goodnatur   1 3 
+gorg   2 
+gors   1 
+gossip   1 2 3 
+got   1 2 3 
+gothic   3 
+gout   2 
+gover   3 
+govern   2 3 
+gown   3 
+goyal   1 
+grab   2 3 
+grace   2 3 
+gracious   1 
+grade   3 
+gradual   2 3 
+grain   2 
+grainland   2 
+grammar   3 
+gramophon   3 
+grand   2 3 
+grandeur   1 
+granit   1 3 
+granitefleck   1 
+grant   1 3 
+grapplinghook   3 
+grasp   1 2 3 
+grass   1 2 
+grassgrown   1 
+grassi   1 
+grassland   3 
+grate   1 3 
+gratifi   2 3 
+gratitud   1 2 
+grave   1 2 3 
+gravel   1 2 3 
+graven   1 
+gravest   3 
+gravit   2 
+graviti   2 
+gray   1 3 
+grayhead   1 
+grayish   1 
+graytint   3 
+graywhisk   1 
+graze   1 2 
+grazier   1 
+grazingland   3 
+great   1 2 3 
+greater   1 2 3 
+greatest   1 2 3 
+greatli   3 
+greatther   3 
+greed   2 
+green   1 3 
+greengroc   3 
+greenscum   1 
+greensplotch   1 
+greet   1 2 3 
+gregson   2 
+grew   1 2 3 
+grey   2 
+greyhead   2 
+greyminst   3 
+grief   1 2 3 
+griev   3 
+grievanc   1 3 
+grievou   2 
+grievous   1 
+griffin   3 
+grigg   3 
+grim   1 2 3 
+grimi   2 
+grimli   3 
+grimm   3 
+grimpen   1 
+grin   1 2 3 
+grind   3 
+grindeth   2 
+grip   1 2 3 
+grisli   3 
+grizzl   2 3 
+grizzli   2 
+groan   1 2 3 
+grocer   1 
+groin   3 
+groom   1 3 
+grope   2 
+grosvenor   3 
+grotesqu   1 
+grotto   3 
+ground   1 2 3 
+group   2 3 
+grove   2 3 
+grow   1 2 3 
+growl   3 
+growler   2 
+grown   2 
+grownup   3 
+growth   1 
+grudg   2 3 
+gruff   3 
+gruffli   2 
+grumbl   2 3 
+gruner   3 
+grunt   3 
+guarante   1 3 
+guard   1 2 3 
+guardian   1 2 3 
+gudgeon   3 
+guess   1 2 3 
+guesswork   1 
+guest   1 3 
+guiacum   2 
+guid   1 2 3 
+guidanc   3 
+guilt   1 2 3 
+guilti   1 2 3 
+guinea   1 
+guion   2 
+guliolmi   2 
+gull   1 
+gulp   2 3 
+gum   1 
+gun   2 3 
+gunroom   3 
+gush   1 2 
+gust   2 
+gutter   1 3 
+guvnor   3 
+guy   3 
+h   2 3 
+ha   1 2 3 
+habit   1 2 3 
+habitu   1 3 
+hack   2 
+hackl   1 
+had   1 2 3 
+hadnt   1 2 3 
+haemorrhag   3 
+haggard   2 
+hail   1 2 
+hainesjohnson   3 
+haint   2 
+hair   1 2 3 
+hairi   1 3 
+halcyon   2 
+hale   1 
+half   1 2 3 
+halfanhour   2 
+halfbroth   3 
+halfcarri   2 
+halfconc   3 
+halfconfid   2 
+halfconsum   2 
+halfdozen   2 
+halfeffac   3 
+halffil   1 
+halfful   1 
+halfgrown   3 
+halfhour   3 
+halfmoon   1 3 
+halfpanel   3 
+halfpast   1 2 3 
+halfpenni   1 
+halfsheet   1 
+halfsovereign   1 2 
+halfstarv   1 
+halfstrangl   2 
+halftimb   3 
+halfway   1 2 3 
+hall   1 2 3 
+halliday   2 
+hallmark   3 
+hallo   3 
+halloa   1 
+halloo   2 
+halltabl   3 
+halt   1 2 3 
+haltondemand   3 
+halv   2 3 
+hamilton   3 
+hamlet   1 3 
+hammer   2 
+hammerford   3 
+hammersmith   3 
+hamper   1 
+hampshir   3 
+han   3 
+hand   1 2 3 
+handcuff   2 3 
+handi   2 3 
+handkerchief   2 3 
+handl   1 2 3 
+handsom   1 3 
+handwrit   3 
+hang   1 2 3 
+hansom   1 2 3 
+happen   1 2 3 
+happi   1 2 3 
+happier   3 
+happiest   2 
+happili   2 3 
+harass   3 
+hard   1 2 3 
+hardboil   3 
+harden   1 2 
+harder   2 3 
+hardest   2 3 
+hardfac   1 
+hardfeatur   2 
+hardhead   1 
+hardi   1 
+hardiest   2 
+hardli   1 2 3 
+hardlip   2 
+hardset   3 
+hardship   1 2 
+harem   2 
+hark   1 
+harley   3 
+harm   1 2 3 
+harmless   1 2 3 
+harold   3 
+harri   1 2 3 
+harrow   3 
+harsh   1 2 3 
+harshli   3 
+harshunit   2 
+hart   2 
+hartstongu   1 
+harvey   3 
+hasa   3 
+hast   1 
+hasten   2 3 
+hasti   2 3 
+hat   1 2 3 
+hatchet   3 
+hate   1 2 3 
+hath   1 
+hatless   3 
+hatnot   3 
+hatr   1 2 3 
+haughti   1 
+haunch   2 
+haunt   1 2 3 
+have   1 2 3 
+haven   2 3 
+havent   1 2 3 
+haveto   3 
+hawklik   2 
+haymarket   3 
+hazard   2 
+haze   1 2 
+hazel   1 
+hazi   1 2 3 
+he   1 2 3 
+head   1 2 3 
+headach   3 
+headbut   3 
+headlin   3 
+headquart   1 
+headsit   3 
+headstrong   2 
+headthat   3 
+heal   1 
+health   1 2 3 
+healthi   2 3 
+heap   1 2 3 
+hear   1 2 3 
+heard   1 2 3 
+hearson   2 
+heart   1 2 3 
+heartfelt   2 
+hearth   1 
+hearthrug   1 
+hearti   1 2 3 
+heartili   1 2 
+heartless   3 
+heartso   1 
+heartsubdu   2 
+heat   3 
+heath   3 
+heathclad   1 
+heather   3 
+heav   2 
+heaven   1 2 3 
+heavi   1 2 3 
+heavili   1 2 3 
+heavilyladen   2 
+heavyfeatur   1 
+heavyjowl   3 
+heavyremark   3 
+heber   2 
+hecould   1 
+hed   2 3 
+hedg   1 2 3 
+heel   1 2 3 
+hehalfitalian   3 
+heidelberg   3 
+heifers1   2 
+height   1 2 
+heir   1 3 
+heit   3 
+held   1 2 3 
+hell   1 2 3 
+hellcat   3 
+hellfir   1 
+hellhound   1 
+hellish   1 
+help   1 2 3 
+helper   3 
+helpless   1 3 
+helplessli   1 3 
+helpmat   3 
+hem   2 
+hen   2 
+henc   2 3 
+henri   1 2 
+henrietta   2 
+henryal   1 
+henrydont   1 
+henryinde   1 
+henrysth   1 
+her   1 2 3 
+herald   2 3 
+heran   2 
+herand   2 
+herboth   1 
+herd   2 
+herdsmen   2 
+here   1 2 3 
+hereaft   3 
+hereeveri   3 
+herei   3 
+hereind   3 
+herey   1 
+heri   3 
+hermet   3 
+hero   3 
+herself   1 3 
+hery   3 
+hesit   1 3 
+hi   1 2 3 
+hid   1 2 3 
+hidden   1 2 3 
+hide   1 3 
+hideou   1 3 
+hidingplac   1 
+high   1 2 3 
+highangl   1 
+highblood   1 
+higher   1 2 3 
+highest   1 2 3 
+highli   1 3 
+highpitch   3 
+highroad   3 
+highstep   3 
+highway   2 3 
+hike   3 
+hilar   1 
+hill   1 2 3 
+hillsid   1 
+hillsideth   1 
+him   1 2 3 
+hima   3 
+himal   2 
+himalayan   3 
+himin   1 
+himit   1 
+himnot   3 
+himself   1 2 3 
+himselfa   3 
+himselfsometh   3 
+hind   2 3 
+hindranc   2 
+hing   2 3 
+hint   1 2 
+hippocket   1 3 
+hire   1 3 
+hiss   1 
+hisself   2 
+hist   1 
+histor   3 
+histori   1 2 3 
+hit   1 2 3 
+hitch   2 
+hitherto   1 
+hive   2 
+hoars   2 3 
+hobbi   1 3 
+hobbl   2 
+hoemoglobin   2 
+hoffman   3 
+hoist   2 
+holborn   2 3 
+hold   1 2 3 
+hole   1 2 3 
+holi   1 2 
+holland   2 3 
+hollow   1 3 
+holloway   3 
+hollybush   3 
+holm   1 2 3 
+holmescrawl   3 
+holmesdrink   3 
+holmeshi   2 
+holmeslarg   3 
+holmess   1 2 3 
+holmessdid   1 
+holmeswith   3 
+home   1 2 3 
+homespun   2 
+homeward   1 3 
+hone   2 
+honest   1 2 3 
+honestli   1 3 
+honour   1 2 3 
+hoof   2 
+hook   2 
+hoop   3 
+hoot   2 
+hop   2 
+hope   1 2 3 
+hopeless   1 2 3 
+hopelessli   1 2 
+horizon   1 2 
+horizont   3 
+horn   2 3 
+hornet   2 
+horni   3 
+horribl   1 3 
+horrifi   3 
+horror   1 2 3 
+horrorstruck   1 
+hors   1 2 3 
+horseand   3 
+horseback   1 2 
+horsedeal   1 
+horsehair   2 
+horseman   2 
+horsemen   2 
+horseseveryth   3 
+horsewhip   3 
+horsham   3 
+hospit   1 2 3 
+host   1 2 3 
+hostel   3 
+hostif   3 
+hostil   3 
+hot   1 2 3 
+hotel   1 2 3 
+hotelward   3 
+hotli   1 3 
+hottentot   1 
+hound   1 2 3 
+houndsditch   2 
+hour   1 2 3 
+hour430   3 
+hourposs   3 
+hous   1 2 3 
+houseag   3 
+houseand   3 
+housefor   2 
+household   1 3 
+houseit   1 
+housekeep   1 3 
+housenot   3 
+housephysicianlittl   1 
+housesurgeon   1 
+housetop   2 
+hover   1 
+how   1 2 3 
+howard   3 
+howev   1 2 3 
+howl   1 3 
+html   1 2 3 
+httpsherlockholm   1 2 3 
+hubbub   3 
+huddl   2 3 
+hudson   3 
+hue   1 
+huge   1 3 
+hugo   1 3 
+huguenot   1 
+hullo   2 3 
+hum   1 2 
+human   1 2 3 
+humbl   1 3 
+humdrum   3 
+humili   3 
+humor   3 
+humour   1 3 
+hunch   1 
+hundr   1 2 
+hundredthousandpound   3 
+hung   1 2 3 
+hungari   3 
+hunger   2 3 
+hungwu   3 
+hunt   1 2 3 
+hunter   1 2 
+huntingcrop   1 
+huntingground   2 
+hurl   1 2 3 
+hurlingham   3 
+hurri   1 2 3 
+hurriedli   1 2 
+hurt   1 2 3 
+hurtl   2 
+husband   1 2 3 
+husbanda   1 
+husbandthi   3 
+hush   1 
+huski   2 
+hustl   2 3 
+hut   1 
+hymn   2 
+hypnot   3 
+hypoderm   3 
+hypothes   1 
+hypothesi   1 2 3 
+hypothesiswho   1 
+i   1 2 3 
+ian   3 
+ice   1 3 
+iceberg   3 
+icefield   1 
+ichthyosi   3 
+ici   3 
+id   1 2 3 
+idea   1 2 3 
+ideal   1 3 
+ideasan   2 
+ident   1 2 3 
+identif   1 
+identifi   1 2 3 
+idl   1 2 
+idler   2 3 
+if   1 2 3 
+ifrom   1 
+ignobl   3 
+ignor   1 2 
+ii   1 2 
+iii   1 2 
+ikey   3 
+ill   1 2 3 
+illadvis   3 
+illbalanc   3 
+illdispos   1 
+illeg   3 
+illfat   2 
+illinoi   2 
+illiter   3 
+illomen   1 2 3 
+illtid   3 
+illtreatmentthat   1 
+illumin   2 3 
+illus   2 3 
+illusag   1 3 
+illustr   3 
+illustri   3 
+illventil   3 
+im   1 2 3 
+imag   1 3 
+imagin   1 2 3 
+imaginari   3 
+imbed   2 
+imit   2 
+immacul   1 2 
+immateri   1 3 
+immedi   1 2 3 
+immemori   1 
+immens   1 3 
+immigr   2 
+immin   2 
+immun   3 
+immut   1 
+impair   1 
+impart   2 
+impass   1 3 
+impati   1 2 3 
+impedi   2 3 
+impend   1 2 3 
+impenetr   1 
+imper   3 
+imperi   2 3 
+imperson   3 
+impertin   3 
+imperturb   3 
+impetu   3 
+impish   3 
+implement   2 
+impli   1 2 3 
+implic   1 
+implicit   1 
+implicitli   1 
+implik   3 
+implor   1 3 
+import   1 2 3 
+importantth   1 
+impos   3 
+imposs   1 2 3 
+impot   2 
+impregn   3 
+impress   1 2 3 
+imprison   1 
+improb   3 
+improv   1 2 3 
+imprud   1 
+impud   3 
+impuls   1 3 
+in   1 2 3 
+inabl   3 
+inaccessiblef   3 
+inact   3 
+inadequ   1 
+inadvert   1 3 
+inarticul   2 
+incap   3 
+incarcer   3 
+incarn   3 
+incess   1 2 
+incessantli   1 
+inch   1 2 3 
+incid   1 2 3 
+incident   1 2 3 
+incis   1 3 
+incit   1 
+inclement   1 
+inclin   1 2 3 
+includ   1 2 3 
+incognito   3 
+incoher   2 3 
+incom   1 2 3 
+incommod   3 
+incompar   2 
+incompat   1 3 
+incomprehens   2 
+inconceiv   1 2 
+inconclus   1 
+inconsequ   2 
+inconsider   3 
+inconveni   1 2 3 
+incorrect   2 
+increas   1 2 3 
+increasingli   1 
+incred   1 3 
+incredul   1 2 3 
+incrimin   1 3 
+inculp   3 
+incur   2 3 
+inde   1 2 3 
+indebt   1 
+indeedth   1 
+indefatig   2 
+indefinit   1 3 
+indel   1 3 
+independ   1 3 
+indescrib   1 3 
+index   1 3 
+indi   1 
+india   2 
+indian   2 3 
+indic   1 2 3 
+indiffer   1 3 
+indign   1 2 3 
+indirect   1 
+indiscreet   1 3 
+indiscret   3 
+indistinct   3 
+individu   1 2 3 
+individualpresum   2 
+indomit   2 
+indoor   1 2 3 
+indors   1 
+induc   1 2 3 
+indulg   3 
+industri   1 2 
+ineff   2 
+inert   1 2 
+inexcus   3 
+inexor   1 2 3 
+inexplic   1 3 
+inexpress   2 
+infal   2 
+infam   1 
+infami   1 
+infantil   2 
+infantri   2 
+infatu   1 3 
+infer   1 2 3 
+inferior   2 3 
+infern   1 2 3 
+infinit   1 2 
+infirm   1 
+inflam   3 
+inflat   2 
+inflex   2 3 
+inflict   3 
+influenc   1 2 3 
+inform   1 2 3 
+infrequ   1 
+infring   2 
+ingeni   1 3 
+ingenu   3 
+ingratitud   3 
+inhabit   1 2 3 
+inherit   1 
+inhospit   1 2 
+inhuman   3 
+inimit   2 
+iniqu   3 
+initi   1 3 
+inject   3 
+injun   2 
+injunct   1 2 
+injur   1 2 3 
+injuri   1 3 
+injustic   1 3 
+ink   1 2 
+inkbottl   1 
+inkl   1 
+inland   2 
+inmat   2 3 
+inmost   2 
+inn   1 3 
+innat   3 
+inner   2 3 
+innkeep   3 
+innoc   1 2 3 
+innumer   2 
+inoffens   3 
+inquest   1 3 
+inquir   1 2 3 
+inquiri   1 2 3 
+inquisit   2 3 
+inrush   3 
+insan   3 
+inscript   2 3 
+inscrut   1 
+insect   1 3 
+insens   1 
+insid   1 2 3 
+insidi   2 3 
+insight   3 
+insignific   1 2 3 
+insist   1 2 3 
+insolubl   3 
+inspect   1 2 3 
+inspector   2 3 
+inspir   2 
+inst   2 
+instanc   1 3 
+instant   1 2 3 
+instantli   1 2 3 
+instead   1 2 3 
+instinct   1 2 3 
+institut   1 3 
+instruct   1 2 3 
+instructor   2 
+instrument   1 2 3 
+insubordin   3 
+insult   2 3 
+insur   3 
+intak   1 
+intellect   3 
+intellectu   3 
+intellig   1 2 3 
+intend   1 2 3 
+intens   1 2 3 
+intenselyeveri   3 
+intensifi   2 3 
+intent   1 2 3 
+inter   2 
+interest   1 2 3 
+interf   1 3 
+interfer   1 2 3 
+interject   3 
+interlock   2 
+interlud   3 
+intermedi   2 
+intermediari   3 
+intermin   1 2 
+intern   1 2 
+interpret   2 3 
+interrog   1 
+interrupt   1 2 3 
+interruptionand   1 
+intersect   2 
+interv   1 2 3 
+interven   1 2 3 
+interview   1 2 3 
+intim   1 2 3 
+intimaci   1 3 
+intimid   3 
+into   1 3 
+intoler   1 3 
+intric   2 
+intrigu   1 3 
+intrins   2 
+introduc   1 2 3 
+introduct   1 3 
+intrud   1 3 
+intrus   1 3 
+intrusionand   3 
+intuit   2 3 
+intuitionthat   3 
+invalid   1 3 
+invalu   1 2 3 
+invari   2 
+invent   2 3 
+investig   1 2 3 
+invidi   3 
+invis   1 2 3 
+invit   1 3 
+invoic   3 
+invok   1 
+involuntari   3 
+involuntarili   2 3 
+involv   1 2 3 
+inward   1 3 
+inwardli   3 
+ips   2 
+irasc   3 
+irish   3 
+iron   1 2 3 
+ironclamp   3 
+ironfac   2 
+irongray   3 
+irregular   1 2 3 
+irregularli   3 
+irrelev   1 3 
+irresist   2 3 
+irresolut   1 2 
+irretriev   1 2 
+irrever   3 
+irrevoc   1 
+irrit   2 3 
+is   1 2 3 
+isadora   3 
+ishow   3 
+island   1 3 
+isnt   1 2 3 
+isol   2 3 
+issu   1 3 
+iswhi   1 
+it   1 2 3 
+itali   2 3 
+italian   3 
+itand   3 
+itbig   3 
+item   1 
+ith   3 
+itit   3 
+itjust   1 
+itself   1 2 3 
+itth   1 
+ittheyv   3 
+itwa   3 
+itwhat   3 
+iv   1 2 
+ive   1 2 3 
+ivernian   1 
+ivi   1 3 
+ivori   3 
+ivycov   3 
+ix   1 
+j   2 3 
+jabber   3 
+jack   1 3 
+jacka   3 
+jacki   3 
+jackson   1 
+jag   1 2 
+jame   1 3 
+jamess   3 
+jangl   2 
+janitor   2 
+jansen   2 
+januari   3 
+japanes   3 
+jar   2 
+jargon   2 
+jarvey   2 
+jaunti   1 2 
+jaw   1 2 3 
+jealou   2 3 
+jealousi   1 2 3 
+jealousjeal   3 
+jefferson   2 
+jemmi   3 
+jerki   1 
+jessamin   1 
+jest   2 3 
+jetti   2 
+jew   2 3 
+jewel   3 
+jewri   3 
+jezail   2 
+jiffi   3 
+jimmi   3 
+jimmieeven   3 
+job   2 3 
+jockey   3 
+jocos   2 
+john   1 2 3 
+johnni   2 
+johnson   1 3 
+johnston   2 
+join   1 2 3 
+joiner   2 
+joke   1 3 
+jolt   1 
+joseph   2 
+josiah   3 
+jot   2 
+journal   1 2 3 
+journalist   3 
+journey   1 2 3 
+jove   1 2 3 
+joy   1 2 3 
+joyc   3 
+joyou   3 
+judg   1 2 3 
+judgment   2 3 
+judici   1 
+juli   3 
+jumbl   2 
+jump   2 3 
+jumpi   1 3 
+junctur   1 
+june   2 3 
+junior   3 
+jure   2 
+juri   1 2 3 
+jurisdict   2 
+jurymen   1 
+just   1 2 3 
+justic   1 2 3 
+justif   1 
+justifi   1 3 
+justli   1 
+jut   1 2 3 
+kansa   3 
+keen   1 2 3 
+keenestey   2 
+keenli   1 2 
+keep   1 2 3 
+keeper   3 
+kembal   2 
+ken   3 
+kennel   1 
+kennington   2 
+kent   3 
+kept   1 2 3 
+kerchief   1 
+keswick   2 
+key   1 2 3 
+keyhol   3 
+khyber   3 
+kick   2 3 
+kiddi   3 
+kidglov   3 
+kill   1 2 3 
+killer   3 
+kin   1 2 
+kind   1 2 3 
+kindest   1 
+kindli   1 2 3 
+king   3 
+kingdom   3 
+kingston   3 
+kinor   3 
+kinsman   1 
+kiss   2 
+kitchen   1 2 
+kith   2 3 
+kitti   3 
+klein   3 
+knee   1 2 3 
+kneel   2 3 
+kneller   1 
+knelt   2 3 
+knew   1 2 3 
+knewsometh   3 
+knife   2 3 
+knight   1 
+knighthood   3 
+knit   1 2 3 
+knive   2 
+knock   1 2 3 
+knot   2 3 
+knotti   2 
+know   1 2 3 
+knowhow   1 
+knowledg   1 2 3 
+known   1 2 3 
+knownot   2 
+knowthat   1 
+knowwel   3 
+knuckl   2 3 
+knuckleshow   3 
+l   1 
+label   2 3 
+laboratori   2 
+labour   1 2 
+lace   1 
+lacer   3 
+lack   1 3 
+lacklustr   2 
+lacon   3 
+lad   1 2 3 
+ladder   2 3 
+ladi   1 3 
+ladmir   2 
+ladyh   3 
+lafter   1 
+lag   3 
+lagoon   3 
+laid   1 2 3 
+lain   3 
+lair   1 
+lake   1 2 3 
+lamb   3 
+lamberley   3 
+lament   3 
+lamp   1 2 3 
+lamplight   3 
+lamplit   3 
+lancecorpor   3 
+lancet   1 3 
+land   1 2 3 
+landladi   2 3 
+landlord   3 
+landmark   1 
+landscap   1 2 
+lane   1 2 3 
+langdal   3 
+languag   3 
+languid   1 3 
+languidli   3 
+languor   3 
+langur   3 
+lantern   1 2 3 
+lap   2 3 
+laps   2 
+larch   2 
+larg   1 2 3 
+largefeatur   3 
+larger   1 2 3 
+lark   2 
+lash   3 
+lass   1 
+lassitud   3 
+last   1 2 3 
+lasta   2 
+lastli   2 
+lastthat   3 
+latch   1 2 
+latchkey   2 
+late   1 2 3 
+later   1 2 3 
+latest   1 2 3 
+lath   2 
+latin   2 3 
+latter   1 2 3 
+lattic   1 
+laugh   1 2 3 
+laughter   1 2 3 
+launch   3 
+laura   1 
+laurel   3 
+lauriston   2 
+lavend   3 
+law   1 2 3 
+lawless   2 
+lawn   3 
+lawsuit   1 
+lawyer   1 2 3 
+lay   1 2 3 
+layer   2 
+lazi   2 
+lazili   3 
+lbut   1 
+le   1 3 
+lead   1 2 3 
+leaden   3 
+leader   1 2 3 
+leaf   3 
+leagu   1 
+lean   1 2 3 
+leanjaw   1 
+leap   1 3 
+leapt   2 
+leari   3 
+learn   1 2 3 
+least   1 2 3 
+leather   1 2 3 
+leatheri   2 3 
+leatherthat   2 
+leav   1 2 3 
+lecher   3 
+lecoq   2 
+lectur   2 3 
+led   1 2 3 
+ledg   2 3 
+leed   1 
+leesten   3 
+lefevr   2 
+left   1 2 3 
+leg   1 2 3 
+legaci   1 
+legal   1 2 3 
+legend   1 3 
+legibl   1 
+legisl   1 
+leisur   1 3 
+leisureit   3 
+len   1 3 
+length   1 2 3 
+lengthen   1 
+lenient   3 
+leonardo   3 
+leper   3 
+lepidoptera   1 
+leprosi   3 
+leprou   3 
+lesli   3 
+less   3 
+lessen   2 3 
+lesson   1 2 3 
+lest   1 2 3 
+lestrad   1 2 3 
+let   1 2 3 
+lethargi   2 
+letter   1 2 3 
+letterbasket   3 
+letterson   2 
+leturi   2 
+level   1 2 3 
+lever   3 
+lew   3 
+lewi   3 
+lewisham   3 
+liabl   3 
+libel   3 
+liber   1 2 3 
+liberti   2 3 
+libertyth   3 
+librari   1 3 
+libri   2 
+lichen   1 3 
+lichenspot   3 
+lick   2 3 
+lid   1 3 
+lie   1 2 3 
+lieder   2 
+lieg   2 
+lieuten   2 
+life   1 2 3 
+lifeless   1 2 
+lifelik   3 
+lifetim   1 3 
+lift   1 2 3 
+light   1 2 3 
+lightbut   1 
+lightcolour   2 
+lighten   3 
+lighter   1 2 3 
+lightheart   2 
+lighthous   3 
+lightli   1 
+lightn   2 
+like   1 2 3 
+likewis   2 
+limb   1 2 3 
+limbo   3 
+lime   3 
+limit   1 2 3 
+limp   1 2 
+lincoln   3 
+line   1 2 3 
+linen   1 2 3 
+linger   2 3 
+link   1 2 3 
+lintel   1 
+lion   3 
+lioness   1 
+lionoh   3 
+lip   1 2 3 
+liquid   3 
+liquor   2 
+lisp   1 
+list   1 2 3 
+listen   1 2 3 
+lit   1 2 3 
+liter   3 
+literari   3 
+literatur   2 3 
+literatureimmens   2 
+literaturenil   2 
+lith   2 
+litig   1 
+litr   2 
+litter   1 2 3 
+littl   1 2 3 
+live   1 2 3 
+liverpool   2 3 
+livid   1 2 3 
+livin   2 
+lizard   3 
+load   2 3 
+loaf   1 
+loafer   2 
+loan   3 
+loath   1 3 
+loathsom   3 
+local   1 2 3 
+lock   1 2 3 
+lode   2 
+lodg   1 2 3 
+lodgeg   1 
+lodger   3 
+lodginghous   2 
+loft   1 
+lofti   1 2 3 
+log   3 
+logfir   1 
+loghous   2 
+logic   1 2 3 
+logician   2 
+loiter   1 
+lomax   3 
+lomond   3 
+london   1 2 3 
+lone   1 2 3 
+loneli   1 3 
+lonesom   2 
+long   1 2 3 
+longbeard   2 
+longdrawn   3 
+longer   1 2 3 
+longforgotten   2 
+longhorn   2 
+longstand   1 
+longsuff   3 
+look   1 2 3 
+lookin   2 3 
+lookout   3 
+loom   1 2 3 
+loophol   1 
+loos   1 2 3 
+loosejoint   3 
+looselimb   3 
+loosen   2 
+lord   1 2 3 
+lordship   3 
+lose   1 2 3 
+losewel   3 
+loss   1 2 3 
+lost   1 2 3 
+lot   2 3 
+lothario   3 
+loud   1 2 3 
+louder   1 2 
+loudli   1 
+loui   2 
+loung   2 
+lounger   2 3 
+love   1 2 3 
+lovedeep   3 
+lovelock   1 
+lover   1 2 3 
+lovingli   3 
+low   1 2 3 
+lowenstein   3 
+lower   1 2 3 
+lowest   2 3 
+lowland   2 
+lowli   2 
+lowpow   3 
+loyal   3 
+loyalti   3 
+lucent   3 
+lucern   3 
+luci   2 
+luck   1 2 3 
+lucki   1 3 
+luckili   3 
+luggag   1 2 3 
+lukewarm   2 
+lull   3 
+lumbago   3 
+lumber   2 
+lumberland   3 
+lumin   1 
+lump   3 
+lunaci   3 
+lunat   3 
+lunch   1 2 3 
+luncheon   1 2 
+lunchtim   3 
+lung   2 
+lurch   3 
+lure   1 
+lurk   1 2 
+lush   1 
+lust   3 
+lustr   2 
+luxuri   1 3 
+lynch   3 
+lynx   2 
+lyon   1 
+lyonnai   3 
+lyonsher   1 
+lyonsit   1 
+lysand   3 
+m   3 
+ma   3 
+maam   3 
+maberley   3 
+machin   3 
+machinelik   3 
+machineri   2 3 
+mackinnon   3 
+macphail   3 
+mad   1 2 3 
+madam   1 2 3 
+madden   3 
+maddest   1 
+made   1 2 3 
+madeira   3 
+madli   1 3 
+madman   1 
+magazin   2 3 
+magic   2 3 
+magistr   2 3 
+magnat   1 3 
+magnifi   2 
+magnific   2 3 
+mahogani   2 
+maid   1 2 3 
+maiden   1 2 3 
+maidserv   2 3 
+main   2 3 
+maiwand   2 
+majesti   2 
+make   1 2 3 
+maker   3 
+malcont   2 
+male   3 
+malevol   1 2 3 
+malic   3 
+malici   2 3 
+malign   1 2 3 
+malignantli   1 
+malthu   2 
+man   1 2 3 
+manabouttown   3 
+manacl   2 
+manag   1 2 3 
+manao   3 
+mane   3 
+mangl   1 2 
+manh   3 
+manhandl   3 
+manhood   2 
+mani   1 2 3 
+mania   3 
+maniac   3 
+manifest   1 3 
+manipul   2 
+mankind   2 
+manli   3 
+manner   1 2 3 
+mannera   3 
+manno   1 
+manoeuvr   2 3 
+manor   1 3 
+manori   1 
+manserv   1 
+mansion   3 
+mantelpiec   2 3 
+mantelpiecea   2 
+manual   3 
+manufactur   3 
+manuscript   1 3 
+manysided   2 
+map   1 2 
+mar   1 
+marbl   1 2 
+march   1 2 
+marchio   2 
+marcini   1 
+mare   1 
+marestail   1 
+margat   3 
+margin   3 
+mari   3 
+maria   3 
+marin   2 
+mark   1 2 3 
+market   3 
+marl   3 
+marlow   3 
+marri   1 2 3 
+marriag   1 2 3 
+marriagemarriag   3 
+marshal   3 
+martinet   3 
+martyr   3 
+marvel   1 2 
+mask   1 2 3 
+masklik   3 
+mason   2 3 
+masonri   3 
+mass   2 3 
+masser   3 
+massiv   2 3 
+master   1 2 3 
+masteri   2 
+masterli   3 
+mastiff   1 
+mat   1 3 
+match   1 2 3 
+mate   3 
+mateand   3 
+materi   1 3 
+mathemat   3 
+mathematician   3 
+matilda   3 
+matter   1 2 3 
+matterso   2 
+maud   3 
+maudi   3 
+maxillari   1 
+may   1 2 3 
+mayb   2 3 
+mayfield   2 
+mayor   1 3 
+mazarin   3 
+maze   1 2 
+mcgregor   2 
+mcpherson   3 
+md   2 3 
+me   1 2 3 
+meal   1 2 3 
+mealtim   3 
+mealymouth   2 
+mean   1 2 3 
+meander   2 
+meaningand   3 
+meaningless   2 
+meant   1 2 3 
+meantim   2 3 
+meanwhil   1 3 
+measur   1 2 3 
+meat   1 2 3 
+mechan   1 2 
+medal   3 
+meddl   2 
+mediaev   3 
+medic   1 2 3 
+medicin   2 
+medicoleg   2 
+mediocr   3 
+medit   2 3 
+mediterranean   3 
+medium   1 2 3 
+meekli   1 
+meeklook   2 
+meekmann   1 
+meet   1 2 3 
+meetingplac   2 
+mehe   3 
+melancholi   1 2 3 
+mellow   1 3 
+melt   3 
+memani   3 
+member   1 2 
+membran   3 
+memento   2 
+memoir   3 
+memor   2 
+memoranda   2 
+memorandumbook   3 
+memori   1 2 3 
+men   1 2 3 
+menac   1 2 3 
+mend   2 3 
+mendelssohn   2 
+mendic   3 
+menial   2 
+menif   2 
+mening   3 
+meninto   2 
+mental   1 2 3 
+mention   1 2 3 
+mepeac   1 
+mercer   3 
+merchant   3 
+merchantabl   1 2 3 
+merci   1 2 3 
+mercuri   1 
+mere   1 2 3 
+merest   2 
+meretrici   3 
+merg   1 
+merit   2 
+merival   3 
+merona   2 
+merri   2 
+merrilow   3 
+merriment   1 
+merripit   1 
+merton   3 
+mertonth   3 
+mervil   3 
+mesh   1 3 
+mess   2 
+messag   1 2 3 
+messeng   1 3 
+messr   2 
+met   1 2 3 
+metal   2 3 
+mete   2 
+meth   1 3 
+method   1 2 3 
+meticul   3 
+metropoli   2 3 
+mew   2 3 
+mexborough   1 
+meyer   1 
+meyou   1 
+miasmat   1 
+mica   2 
+mice   3 
+michael   3 
+michaelma   1 
+microcosm   3 
+microscop   2 3 
+midday   3 
+middevon   1 
+middl   1 2 3 
+middleag   1 2 3 
+middles   2 
+middlesex   3 
+middleton   1 
+midnight   2 3 
+midvictorian   3 
+might   1 2 3 
+mighti   1 2 3 
+mihi   2 
+milano   3 
+mild   1 3 
+mildew   2 
+mile   1 2 3 
+militari   2 
+militarylook   3 
+milk   2 3 
+milkman   3 
+mill   2 
+million   1 2 3 
+millionair   3 
+millstream   3 
+minatori   2 
+minc   3 
+mind   1 2 3 
+mine   1 2 3 
+miner   1 
+mineralizedland   3 
+ming   3 
+mingl   1 3 
+minist   1 3 
+minni   3 
+minor   2 
+minori   3 
+minstrel   1 
+minut   1 2 3 
+mire   1 
+miri   1 
+mirror   3 
+misadventur   3 
+miscalcul   1 3 
+miscarri   1 
+miscarriag   3 
+mischief   1 3 
+mischiev   1 2 3 
+misconcept   3 
+misconstru   2 
+miscreant   3 
+misde   2 
+miser   1 2 3 
+miseri   1 2 3 
+misfortun   1 2 
+misgiv   2 
+misl   3 
+mislaid   1 
+miss   1 2 3 
+misshapen   3 
+mission   1 2 3 
+mississippi   2 
+missouri   2 
+misspelt   3 
+mist   1 2 3 
+mistak   1 2 3 
+mistaken   1 2 3 
+mister   1 3 
+mistera   1 
+misti   2 
+mistress   1 3 
+misunderstood   3 
+mix   2 3 
+mixtur   1 2 3 
+mlle   1 
+mme   1 
+mo   3 
+moan   1 2 
+mobil   3 
+mock   3 
+mode   3 
+model   3 
+moder   1 2 
+modern   1 3 
+modest   1 
+modesti   3 
+modul   3 
+moisten   2 
+moistur   2 
+molest   3 
+moment   1 2 3 
+momentari   2 
+momentso   2 
+monday   3 
+money   1 2 3 
+moneybag   2 
+moneylend   3 
+monkey   1 3 
+monograph   1 2 3 
+monolith   1 
+monoton   1 3 
+monotoni   2 
+monsieur   1 
+monster   2 3 
+monstros   3 
+monstrou   1 3 
+month   1 2 3 
+montmartr   3 
+montpelli   2 
+montpensi   1 
+montrachet   3 
+monument   2 
+mood   1 2 3 
+moodi   3 
+moodili   3 
+moon   1 2 3 
+moonlight   1 3 
+moonlit   3 
+moor   1 3 
+moorgat   1 
+moorland   1 
+moorpath   1 
+moorsid   3 
+moorvil   3 
+moosmoor   3 
+mope   1 
+moral   2 3 
+moran   3 
+morass   1 
+morbid   3 
+more   1 2 3 
+morecroft   3 
+morefrequ   2 
+moriarti   3 
+morland   1 
+mormon   2 
+morn   1 2 3 
+morningi   2 
+moros   3 
+morphi   3 
+morphia   3 
+morphin   3 
+morrison   3 
+morrow   3 
+mortal   1 2 
+mortim   1 3 
+mortimerand   1 
+mortuari   2 
+moss   1 3 
+most   1 2 3 
+mostand   1 
+moth   1 3 
+mother   1 2 3 
+motherli   3 
+motion   2 
+motionless   1 2 
+motiv   1 2 3 
+motley   2 
+mottl   1 2 3 
+motto   3 
+mould   1 2 
+mount   1 2 
+mountain   1 2 3 
+mourn   1 2 3 
+mous   3 
+moustach   3 
+moustacheth   3 
+mouth   1 2 3 
+move   1 2 3 
+movement   1 2 3 
+mr   1 2 3 
+mrc   1 
+much   1 2 3 
+muchand   1 
+muchbandag   3 
+mud   1 2 3 
+mudcolour   2 
+muffl   1 2 3 
+muirhead   3 
+mule   2 
+muller   2 
+mullion   1 
+multitud   2 
+multitudin   3 
+mumbl   2 
+mummi   3 
+munch   2 
+murcher   2 
+murcherhim   2 
+murder   1 2 3 
+murderedth   1 3 
+murderermi   3 
+murdoch   3 
+murdochbut   3 
+murger   2 
+murmur   1 2 3 
+murphi   1 
+murray   2 
+muscl   2 
+muscular   3 
+muse   3 
+museum   1 3 
+music   1 2 3 
+must   1 2 3 
+mustang   2 
+muster   3 
+musti   3 
+mustnt   2 
+mute   1 
+mutil   1 3 
+mutter   1 2 3 
+mutual   1 
+muzzl   1 2 
+my   1 2 3 
+myself   1 2 3 
+mysteri   1 2 3 
+mystif   3 
+mystifi   2 
+n   3 
+nail   1 2 3 
+nailscissor   1 
+naiv   2 
+naivest   2 
+nake   1 3 
+name   1 2 3 
+namea   3 
+namecount   3 
+nameless   2 
+namesak   3 
+nap   2 
+nara   3 
+narcot   2 
+nark   3 
+narr   1 2 3 
+narrat   2 3 
+narrow   1 2 3 
+narrowest   3 
+nasal   2 
+nasti   3 
+nathan   3 
+nation   2 3 
+nativ   3 
+natur   1 2 3 
+naturalist   1 
+naturaliststapleton   1 
+nauvoo   2 
+navi   2 
+nay   2 
+neanderth   3 
+near   1 2 3 
+nearer   1 2 3 
+nearest   1 2 3 
+nearli   1 2 3 
+neat   2 3 
+neatli   2 3 
+nebraska   2 
+nebul   3 
+necess   3 
+necessari   1 2 3 
+necessarili   3 
+neck   1 2 3 
+neckcloth   2 
+neckti   3 
+necromanc   2 
+need   1 2 3 
+needl   2 3 
+needless   3 
+neednt   2 3 
+neg   1 2 
+neglect   1 2 3 
+negoti   3 
+negretto   3 
+negro   1 3 
+neigh   2 
+neighbour   1 2 3 
+neighbourhood   1 3 
+neighbourhooda   3 
+neil   3 
+neither   2 3 
+neolith   1 
+nephew   1 
+neruda   2 
+nerv   1 2 3 
+nervou   1 2 3 
+nervous   1 2 
+nest   2 
+nestl   2 3 
+net   1 3 
+netley   2 
+nettl   3 
+network   2 
+neurot   3 
+neutral   1 
+nevada   2 
+never   1 2 3 
+new   1 2 3 
+newcastl   1 
+newcom   1 
+newfangl   2 
+newfoundland   3 
+newgat   3 
+newli   3 
+newlydug   2 
+newmarket   3 
+news   1 2 3 
+newspap   1 2 3 
+newssheet   3 
+newsvend   3 
+next   1 2 3 
+nextofkin   1 
+niagara   2 
+nice   2 3 
+nich   1 3 
+nicknam   3 
+niggardli   3 
+nigger   3 
+nigh   2 
+night   1 2 3 
+nightclub   3 
+nightdress   2 
+nightfal   2 3 
+nightli   1 
+nightmar   3 
+nighttim   2 3 
+nimbl   2 
+nine   2 
+nineday   3 
+nineteenth   2 
+ninthday   3 
+nip   1 3 
+nitrat   3 
+no   1 2 3 
+nobil   3 
+nobl   3 
+nocturn   1 2 3 
+nod   2 3 
+noi   2 
+nois   1 2 3 
+noiseless   2 
+noiselessli   1 2 
+noisi   1 2 3 
+nomad   2 
+nonchal   2 
+nondescript   2 
+none   1 2 3 
+noninfect   3 
+nonpareil   1 
+nonsens   1 3 
+nook   2 
+noon   2 
+noor   1 
+nor   1 2 3 
+norberton   3 
+norlett   3 
+normal   3 
+norman   2 3 
+north   1 2 3 
+northern   2 3 
+northumberland   1 2 3 
+nose   1 2 3 
+nostril   1 
+not   1 2 3 
+notdont   1 
+note   1 2 3 
+notebook   2 3 
+noteit   3 
+noth   1 2 3 
+nothingabsolut   3 
+nothingin   3 
+nothingnoth   1 
+nothingth   3 
+noti   3 
+notic   1 2 3 
+noticey   3 
+notifi   3 
+notion   1 2 3 
+notori   1 2 
+nouveaux   1 
+nov   3 
+novel   1 2 3 
+novelti   3 
+novemb   1 3 
+now   1 2 3 
+nowaday   3 
+nowher   1 
+nowold   3 
+nowso   1 
+nucleu   3 
+numb   1 3 
+number   1 2 3 
+numer   1 2 
+nummo   2 
+nurs   1 2 3 
+nurseri   1 3 
+nursinghom   3 
+nut   2 
+nutshel   3 
+o   2 
+oak   1 2 3 
+oaken   3 
+oakshott   3 
+oath   1 2 3 
+obedi   1 2 3 
+obey   1 2 3 
+object   1 2 3 
+objectless   2 
+oblig   1 2 3 
+obliter   2 
+obscen   1 
+obscur   2 3 
+observ   1 2 3 
+obsess   3 
+obstacl   1 2 3 
+obstin   3 
+obstruct   3 
+obtain   1 2 3 
+obtrud   3 
+obviou   1 3 
+obvious   1 2 3 
+occas   1 2 3 
+occasion   1 2 3 
+occup   1 2 3 
+occupi   1 2 3 
+occur   1 2 3 
+occurr   1 
+ocean   1 3 
+oclock   1 2 3 
+oct   1 
+octob   1 3 
+odd   1 2 3 
+odditi   3 
+odessa   2 
+odley   3 
+odo   3 
+odour   1 2 3 
+of   1 2 3 
+off   1 2 3 
+offenc   3 
+offend   2 
+offens   3 
+offer   1 2 3 
+offic   1 2 3 
+officeand   1 
+offici   1 2 3 
+officiallook   2 
+offof   1 
+offshoot   3 
+often   1 3 
+ofwhi   2 
+oh   1 2 3 
+ohio   2 
+oil   3 
+oili   3 
+ointment   2 
+old   1 2 3 
+older   1 3 
+oldest   3 
+oldfashion   1 3 
+oldmor   1 
+oldtim   1 
+oldworld   1 
+oliv   1 
+ome   2 
+omiss   2 
+omit   2 
+omnipot   2 
+omnisci   2 
+omnivor   3 
+on   1 2 3 
+onc   1 2 3 
+onceveri   3 
+one   1 2 3 
+oneand   2 
+oneleg   3 
+oneonli   1 
+oner   1 
+onesegreg   3 
+oneso   3 
+oneth   1 
+onethough   3 
+onli   1 2 3 
+onthefloorofherwardrob   3 
+onward   1 2 3 
+ooz   1 3 
+open   1 2 3 
+openli   1 2 3 
+openmouth   2 
+opinion   1 2 3 
+opium   2 3 
+oppon   1 2 3 
+opportun   1 2 3 
+oppos   2 3 
+opposit   1 2 3 
+oppress   2 
+or   1 2 3 
+orchard   1 
+orchid   1 
+ordeal   1 
+order   1 2 3 
+orderli   2 3 
+ordinari   1 2 3 
+ordinarili   3 
+ordnanc   1 
+organ   1 2 
+organis   2 
+orient   3 
+origin   1 2 3 
+orlean   2 
+ornament   1 2 3 
+oront   2 
+orthodox   2 
+orwel   3 
+other   1 2 3 
+otherwis   2 3 
+otherworld   3 
+ought   1 2 3 
+our   1 2 3 
+ourselv   1 2 3 
+ourselvesand   3 
+out   1 2 3 
+outbreak   3 
+outburst   1 
+outcom   1 
+outconcussiondeliriumwhat   3 
+outcri   3 
+outer   3 
+outfit   1 3 
+outflam   3 
+outhous   1 2 3 
+outlandish   3 
+outli   1 2 
+outlin   1 2 3 
+outliv   3 
+outlook   1 
+outofth   2 
+outoftheway   3 
+outpac   1 
+outrag   1 2 3 
+outrã   1 2 
+outset   1 
+outsetculp   3 
+outsid   1 2 3 
+outskirt   2 
+outstretch   3 
+outward   3 
+outweigh   2 
+oven   3 
+over   1 2 3 
+overcoat   1 2 3 
+overcom   1 2 
+overdid   2 3 
+overdo   3 
+overdon   3 
+overdu   3 
+overexposur   2 
+overflow   3 
+overhead   2 3 
+overhear   1 
+overhung   1 
+overjoy   2 
+overland   2 
+overlap   1 
+overlook   1 2 3 
+overmast   3 
+overshot   3 
+overtak   1 2 
+overtaken   1 2 3 
+overtook   1 
+overwel   3 
+overwhelm   1 
+owe   1 2 3 
+owl   2 
+own   1 2 3 
+owner   1 2 3 
+oxen   2 
+oxford   1 
+oxlik   3 
+p   3 
+pace   1 2 3 
+pacif   2 
+pacifi   1 
+pack   1 2 3 
+packet   3 
+packhors   2 
+pad   3 
+paddington   1 
+padlock   1 
+page   1 2 3 
+paid   1 2 3 
+pail   3 
+pain   1 2 3 
+paint   1 2 3 
+paintbox   3 
+paintor   3 
+pair   1 2 3 
+pal   3 
+palac   2 3 
+palat   2 
+pale   1 2 3 
+palefac   1 2 3 
+palenev   3 
+paler   1 3 
+pallid   1 3 
+palm   2 3 
+palmyra   2 
+pamper   3 
+pan   3 
+pancra   3 
+pander   3 
+pane   1 2 
+panel   1 2 3 
+pang   2 3 
+pannikin   1 
+panorama   3 
+pant   1 2 3 
+pantri   3 
+paper   1 2 3 
+paperhang   2 
+paradox   2 
+paragraph   2 3 
+parallel   1 
+paralysi   3 
+paralyz   1 3 
+parapet   3 
+parasol   3 
+parcel   2 
+parchmentlik   2 
+pard   2 
+pardon   1 2 3 
+paregor   3 
+pari   2 
+pariet   1 
+parish   1 3 
+park   1 2 3 
+parkhurst   3 
+parlour   2 
+paroxysm   1 2 3 
+part   1 2 3 
+parthian   2 
+parti   2 3 
+partial   3 
+particip   2 
+particl   1 
+particular   1 2 3 
+particularli   1 3 
+partli   1 3 
+partner   2 3 
+partook   2 
+partridg   3 
+parva   3 
+pass   1 2 3 
+passag   1 2 3 
+passedand   3 
+passeng   2 3 
+passerbi   3 
+passion   1 2 3 
+passioni   3 
+passiv   3 
+past   1 2 3 
+pastim   3 
+pastur   1 2 
+pat   3 
+patch   1 2 3 
+pate   3 
+patent   1 2 
+patentleath   2 
+patern   2 3 
+path   1 2 3 
+pathet   3 
+patholog   1 
+pathologist   3 
+pathway   1 2 
+patienc   1 2 3 
+patient   1 2 3 
+patriarch   3 
+patrician   3 
+patter   1 2 
+pattern   2 3 
+paus   1 2 3 
+pave   2 
+pavement   2 
+pavingston   3 
+paw   1 3 
+pawne   2 
+pay   1 2 3 
+peac   1 2 3 
+peach   1 3 
+peak   1 2 
+peal   1 2 
+pearl   3 
+pearli   2 
+peasant   1 
+peat   1 
+peati   1 
+pebbl   3 
+peckham   2 
+peculiar   1 2 3 
+peculiarli   2 3 
+pedest   1 
+pedlar   2 
+peel   2 
+peep   1 2 3 
+peer   1 2 3 
+peke   3 
+pellet   3 
+pellucid   3 
+pelti   2 
+pen   1 3 
+penalti   2 3 
+penang   1 
+pencil   1 2 3 
+penetr   1 2 3 
+peninsula   1 
+penit   2 
+penitentiari   3 
+penknif   2 
+penni   1 
+penniless   3 
+pennyworth   2 
+pension   3 
+pensiv   2 
+penuri   3 
+peopl   1 2 3 
+pepperandsalt   3 
+perceiv   1 2 3 
+percept   1 2 3 
+perch   2 
+perchanc   3 
+perchanceto   1 
+peremptori   1 
+perfect   1 2 3 
+perfectli   1 2 3 
+perform   1 2 3 
+perfum   1 
+perfunctori   3 
+perhap   1 2 3 
+perhapsupon   1 
+peril   1 2 3 
+period   1 3 
+perish   1 2 3 
+perkin   1 3 
+perman   1 
+permiss   1 2 3 
+permit   1 2 3 
+pernambuco   3 
+perpendicular   3 
+perpetr   2 
+perpetu   3 
+perplex   1 2 3 
+persano   3 
+persecut   1 2 3 
+persecutor   2 3 
+persever   1 2 
+persist   2 3 
+person   1 2 3 
+personag   2 
+personif   1 
+personsi   3 
+perspir   2 
+persuad   1 2 3 
+persuas   2 
+pertin   2 
+pertinac   3 
+pertinaci   3 
+perturb   3 
+perus   3 
+peruvian   3 
+pervad   3 
+pervert   2 3 
+peshawar   2 
+pest   3 
+pet   1 2 3 
+pete   2 
+petersburg   2 
+petrifi   2 
+petul   2 
+petulantli   2 
+phantom   1 
+phase   3 
+pheasant   3 
+phenomenon   2 
+phial   3 
+philipp   2 
+phillimor   3 
+philosoph   2 3 
+philosopheryouv   3 
+philosophi   2 
+philosophynil   2 
+phlegmat   3 
+phone   3 
+phosphoru   1 
+photograph   1 3 
+phrase   1 3 
+physic   1 3 
+physiologistthat   3 
+physiqu   3 
+pick   1 2 3 
+picker   1 
+picket   2 
+picnic   1 
+pictur   1 3 
+picturefram   3 
+piec   1 2 3 
+pierc   1 2 
+pig   3 
+pigeonhol   3 
+pike   1 3 
+pile   1 2 3 
+pilgrimag   2 
+pilgrimspalefac   2 
+pill   2 
+pillar   1 
+pillow   3 
+pin   1 2 3 
+pinafor   2 
+pinbulldog   2 
+pinch   2 
+pine   1 2 3 
+pinion   2 
+pink   1 2 3 
+pinnacl   1 2 
+pinpoint   1 
+pinto   3 
+pioneer   2 
+pipe   1 2 3 
+pipett   2 
+piqu   1 
+piquant   2 
+pistol   1 2 3 
+pistolbut   3 
+pit   1 2 3 
+pitch   2 
+pitchdark   1 3 
+pitcher   2 
+piteou   1 3 
+piti   1 2 3 
+pitt   1 
+pittanc   1 
+placard   2 3 
+place   1 2 3 
+placedism   3 
+placehi   1 
+placid   1 2 
+placidli   2 
+plagu   1 3 
+plain   1 2 3 
+plainland   2 
+plainli   1 2 3 
+plainlydress   2 
+plaintiv   2 
+plan   1 2 3 
+plane   3 
+plank   1 2 3 
+plant   1 2 3 
+plaster   2 3 
+plate   2 3 
+plateau   2 
+plateglass   3 
+platform   1 2 
+plaudo   2 
+plausibl   3 
+play   1 2 3 
+playact   3 
+player   2 
+playmat   3 
+plead   3 
+pleas   1 2 3 
+pleasant   1 2 3 
+pleasantli   2 
+pleasur   1 2 3 
+pledg   1 3 
+plenti   1 3 
+plot   1 2 3 
+plotter   3 
+plough   1 3 
+plow   3 
+plu   2 
+pluck   1 
+plume   1 
+plump   2 3 
+plunder   3 
+plung   1 2 3 
+plunger   3 
+plushclad   3 
+plymouth   1 
+pneumonia   3 
+poach   1 
+pocket   1 2 3 
+pocketbook   1 3 
+pocketknif   3 
+poe   2 
+poetri   3 
+point   1 2 3 
+pointblank   3 
+pointsth   3 
+pointswhich   3 
+pois   1 
+poison   1 2 3 
+poker   3 
+pole   3 
+polic   1 2 3 
+policecourt   3 
+policeman   1 2 3 
+policeoffic   2 
+policest   2 3 
+policybut   3 
+polish   3 
+polit   2 3 
+politician   3 
+politicsfeebl   2 
+polo   3 
+polygami   2 
+pompos   3 
+pompou   2 3 
+pompous   2 
+poncho   2 
+ponder   2 3 
+poni   1 
+pooh   3 
+pool   1 2 3 
+poor   1 2 3 
+pope   1 
+popul   2 
+popular   1 2 3 
+populu   2 
+porch   1 3 
+porcin   3 
+porki   3 
+port   3 
+portabl   3 
+portal   2 
+porter   1 2 
+portico   3 
+portion   1 2 
+portli   3 
+portmanteau   2 
+portrait   1 3 
+portsmouth   2 
+pose   1 3 
+posit   1 2 3 
+possess   1 2 3 
+possessor   1 
+possibl   1 2 3 
+possibleand   3 
+possiblearminarm   2 
+possibleveri   3 
+post   1 2 3 
+posthum   3 
+posthypnot   3 
+postmark   1 3 
+postmast   1 
+postmortem   1 
+postoffic   3 
+postpon   1 
+postscript   1 
+postur   2 
+pot   1 3 
+potteri   3 
+pound   1 2 3 
+pour   1 3 
+power   1 2 3 
+powerless   1 2 
+practic   1 2 3 
+practicalso   2 
+practis   1 2 
+practition   1 
+pragmat   2 
+pragu   3 
+prairi   1 2 
+prais   1 3 
+pranc   2 
+prattl   2 
+pray   1 2 3 
+prayer   1 2 
+preach   2 3 
+prearrang   2 
+precari   3 
+precaut   1 2 3 
+preced   1 3 
+precept   2 
+preciou   1 2 3 
+precipic   1 2 
+precipit   1 2 3 
+precis   1 2 3 
+predict   1 2 3 
+predomin   2 
+prefac   3 
+prefer   1 2 3 
+prefix   3 
+prehistor   1 
+prejudic   3 
+prematur   3 
+premedit   3 
+premis   3 
+preoccup   1 3 
+preoccupi   1 3 
+prepar   1 2 3 
+prepossess   3 
+preposter   3 
+presburi   3 
+presburyfeel   3 
+prescott   3 
+prescrib   2 
+prescript   3 
+presenc   1 2 3 
+presencetor   3 
+present   1 2 3 
+presenti   2 3 
+presentlymayb   2 
+preserv   1 2 3 
+press   1 2 3 
+pressa   3 
+pressur   1 3 
+presum   1 2 3 
+presumpt   1 
+pretenc   3 
+pretend   1 2 3 
+pretenti   2 
+pretext   1 3 
+pretoria   3 
+pretti   1 2 3 
+prettier   2 
+prettili   1 
+prevail   3 
+prevent   1 2 3 
+previou   1 3 
+prey   1 3 
+price   1 2 3 
+prick   1 2 3 
+pride   1 2 3 
+prim   1 
+prime   2 3 
+primfac   1 
+primit   3 
+princ   3 
+princess   2 
+princetown   1 
+princip   2 3 
+principl   2 3 
+print   1 2 3 
+printer   2 3 
+prison   1 2 3 
+privaci   3 
+privat   1 2 3 
+privi   3 
+privileg   1 
+prize   1 3 
+prizefight   3 
+probabilityand   1 
+probabl   1 2 3 
+probe   3 
+problem   1 2 3 
+proceed   1 2 3 
+process   2 3 
+proclaim   2 3 
+procur   1 
+prod   3 
+prodigi   3 
+produc   2 3 
+profan   1 
+profess   1 2 3 
+profession   1 2 3 
+professor   2 3 
+profil   1 
+profit   1 
+profound   2 
+profoundli   2 
+prognath   2 
+programm   1 
+progress   1 2 3 
+progressionthan   3 
+project   1 2 3 
+prolong   1 2 3 
+promin   2 
+promis   1 2 3 
+promot   2 3 
+prompt   1 3 
+promptli   2 3 
+pronounc   2 3 
+proof   1 2 3 
+prop   2 
+proper   1 2 
+properli   3 
+properti   1 2 3 
+prophet   2 
+propiti   1 3 
+proport   1 2 
+propos   1 2 3 
+proposit   1 2 3 
+proprietor   2 
+prosaic   1 
+prosecut   1 3 
+prospect   1 2 3 
+prosper   1 2 
+prostrat   1 2 
+protect   1 2 3 
+protector   2 
+protest   1 2 3 
+protrud   2 3 
+proud   1 2 3 
+proudest   3 
+proudli   2 
+prove   1 2 3 
+provid   1 2 3 
+provinc   3 
+provinci   3 
+provis   1 2 
+provision   3 
+provok   3 
+prowl   1 2 3 
+prussic   3 
+pseudoleprosi   3 
+psychic   3 
+psycholog   1 
+public   1 2 3 
+publicli   2 3 
+publish   2 3 
+pucker   3 
+puddl   2 
+pueril   2 
+puf   1 2 
+pugnaci   1 
+pull   1 2 3 
+puls   2 3 
+pulsat   3 
+punctual   1 
+punish   1 2 3 
+pup   2 
+pur   3 
+purchas   3 
+pure   1 2 3 
+pureblood   2 
+puritan   1 
+purlington   3 
+purloin   1 
+purpl   3 
+purport   3 
+purpos   1 2 3 
+purposeless   1 
+purs   2 
+pursu   1 2 3 
+pursuer   2 
+pursuit   1 2 3 
+purview   3 
+push   1 2 3 
+pustul   3 
+put   1 2 3 
+puzzl   1 2 3 
+puzzler   2 
+quack   3 
+quadrangl   2 
+quagmir   1 
+quaint   3 
+quak   3 
+qualifi   3 
+qualiti   1 3 
+quantiti   1 2 
+quarrel   3 
+quarri   1 3 
+quarter   1 2 3 
+quaver   3 
+queen   1 3 
+queenli   3 
+queer   1 2 3 
+queerest   1 3 
+querul   2 
+quest   1 2 3 
+question   1 2 3 
+questioningstar   1 
+questionwho   3 
+qui   2 
+quick   1 2 3 
+quicken   1 
+quicker   3 
+quickli   1 2 3 
+quid   3 
+quiet   1 2 3 
+quieter   3 
+quietli   1 2 3 
+quit   1 2 3 
+quiver   1 2 3 
+quo   2 
+quot   1 2 3 
+race   1 2 3 
+rach   2 
+rachel   2 
+raci   3 
+rack   3 
+radiat   3 
+radiu   1 
+rafter   1 
+rag   1 2 3 
+rage   1 2 3 
+rail   2 
+railway   2 3 
+railwaycarriag   1 
+rain   1 2 3 
+rainlash   1 
+rais   1 2 3 
+rake   1 3 
+ralli   2 
+ralph   3 
+rambl   3 
+ramp   3 
+ramshackl   3 
+ran   1 2 3 
+ranc   2 
+ranch   2 
+ranchman   2 
+random   2 
+rang   1 2 3 
+rank   1 2 
+rankl   3 
+ransomin   3 
+rapac   3 
+raphael   3 
+rapid   2 3 
+rapidli   1 2 3 
+rapier   3 
+rare   1 2 3 
+rarer   3 
+rascal   1 2 3 
+rash   1 2 3 
+rasp   2 3 
+rat   2 3 
+ratcliff   2 
+rate   1 3 
+ratfac   2 3 
+rather   1 2 3 
+ration   3 
+rattl   1 2 3 
+raucou   2 3 
+rave   3 
+raven   1 3 
+ravin   2 
+raw   1 3 
+ray   1 3 
+re   3 
+reach   1 2 3 
+react   3 
+reaction   1 2 3 
+read   1 2 3 
+reader   1 2 3 
+readi   1 2 3 
+readier   3 
+readili   2 
+readingfrankland   1 
+readjust   1 
+reagent   2 
+real   1 2 3 
+realis   2 
+realiti   1 3 
+realiz   1 2 3 
+realli   1 2 3 
+realm   1 
+reaper   3 
+reappear   2 3 
+rear   2 
+rearadmir   1 
+reason   1 2 3 
+reassur   1 3 
+rebel   2 
+rebellion   1 
+rebu   3 
+recal   1 2 3 
+recalcitr   2 
+recaptur   1 
+receipt   1 3 
+receiv   1 2 3 
+receivingst   3 
+recent   1 2 3 
+recess   1 3 
+reciproc   3 
+recit   1 
+reckless   1 2 3 
+reckon   1 2 3 
+recogn   1 2 3 
+recognit   1 2 3 
+recollect   1 2 3 
+recommend   1 2 3 
+reconcil   1 2 
+reconstruct   1 3 
+record   1 2 3 
+recorrobor   2 
+recov   1 2 3 
+recruit   1 2 
+recur   1 3 
+recurr   3 
+red   1 2 3 
+reddish   2 
+redfac   1 3 
+redhand   1 
+redhot   3 
+redlett   1 
+redrim   2 
+redskin   2 
+redvein   3 
+reecho   2 
+reed   1 3 
+reedb   3 
+reedfil   3 
+reedgirt   3 
+reedi   3 
+reek   1 
+reel   3 
+reenter   1 3 
+reestablish   3 
+refer   1 2 3 
+refil   3 
+refin   3 
+reflect   1 2 3 
+refold   1 
+refrain   3 
+refresh   1 
+refug   1 2 3 
+refuge   2 
+refurnish   1 
+refus   1 2 3 
+regain   1 2 3 
+regard   1 2 3 
+regardless   3 
+regenc   1 
+regencya   3 
+regent   1 3 
+regim   3 
+regiment   2 3 
+regina   1 
+region   1 2 3 
+regist   1 2 3 
+registri   1 
+regret   1 2 3 
+regul   2 3 
+regular   1 2 3 
+reign   1 2 3 
+rein   2 
+reincarn   1 
+reinforc   2 
+reject   1 
+rejoic   1 
+rejoin   1 2 3 
+rejuvenesc   3 
+rel   3 
+relat   1 3 
+relax   1 2 3 
+releas   3 
+relent   3 
+reli   2 3 
+reliabl   2 3 
+relianc   3 
+relic   3 
+relief   1 2 3 
+reliev   1 2 3 
+religi   2 
+religion   2 3 
+relish   3 
+reluct   2 
+reluctantli   2 
+remain   1 2 3 
+remaind   1 2 3 
+remark   1 2 3 
+remarkablelook   1 
+remarkablemost   3 
+remedi   3 
+rememb   1 2 3 
+remembr   1 3 
+remind   2 3 
+remington   1 
+reminisc   2 3 
+remit   3 
+remonstr   2 3 
+remorseless   3 
+remot   3 
+remov   1 2 3 
+rend   3 
+render   1 2 
+rendezv   1 
+renew   1 3 
+renov   1 
+rent   3 
+reopen   3 
+repair   1 2 
+repar   2 
+repay   1 
+repeat   1 2 3 
+repel   3 
+repent   1 3 
+repetit   2 
+replac   1 2 3 
+repli   1 2 3 
+report   1 2 3 
+repos   2 
+reprehens   3 
+repres   1 2 3 
+repress   1 
+reprint   2 
+reproach   1 2 3 
+reproduct   3 
+reproof   3 
+reprov   1 3 
+republish   3 
+repuls   2 3 
+reput   1 3 
+request   1 2 3 
+requir   1 2 
+requisit   3 
+rescu   1 2 
+rescuer   2 
+research   1 2 3 
+resembl   1 2 3 
+resent   2 3 
+reserv   1 2 3 
+resid   1 2 3 
+residenti   3 
+resideson   3 
+residu   1 3 
+resign   1 3 
+resist   1 2 3 
+resolut   2 3 
+resolv   2 3 
+reson   1 
+resound   3 
+resourc   1 
+respect   1 2 3 
+respond   2 3 
+respons   1 2 3 
+rest   1 2 3 
+restaur   3 
+restingplac   2 3 
+restless   1 2 3 
+restlessli   1 
+restor   1 2 3 
+restrain   2 3 
+restraint   1 3 
+result   1 2 3 
+resum   1 2 3 
+reszk   1 
+retain   1 2 3 
+retent   3 
+retic   1 2 3 
+reticul   3 
+retir   1 2 3 
+retort   2 3 
+retrac   1 2 
+retreat   1 2 3 
+retribut   2 3 
+retrospect   1 
+return   1 2 3 
+returningso   2 
+reveal   1 2 3 
+revel   1 3 
+reveng   2 3 
+rever   1 2 3 
+reverend   3 
+reverenti   1 
+reveri   3 
+revers   1 
+revert   3 
+review   3 
+reviv   2 
+revoir   1 
+revolutionist   2 
+revolv   1 2 3 
+revolversther   3 
+reward   2 
+reynold   1 
+rheumat   3 
+rib   1 2 3 
+ribbon   2 
+rica   1 
+rich   1 2 3 
+richardson   3 
+richer   1 2 3 
+richest   2 3 
+richmond   3 
+rid   1 2 3 
+riddl   1 
+ride   1 2 
+rider   2 3 
+ridg   1 
+ridingman   3 
+ridingwhip   2 3 
+rifl   1 2 3 
+rift   1 
+right   1 2 3 
+righthand   3 
+rightli   3 
+rightnoon   2 
+rightsand   3 
+rigid   1 2 3 
+rigidli   3 
+rigmarol   3 
+ring   1 2 3 
+ringlet   1 
+rio   2 
+rip   3 
+ripen   1 
+rippl   1 2 3 
+rise   1 2 3 
+risen   1 2 3 
+risk   1 2 3 
+rival   1 2 3 
+river   2 3 
+rivet   2 
+riviera   3 
+road   1 2 3 
+roadsid   3 
+roadway   2 3 
+roan   2 
+roar   1 2 3 
+rob   2 3 
+robberi   2 3 
+robert   3 
+robust   1 2 
+rock   1 2 3 
+rocki   2 3 
+rockingchair   2 
+rockstrewn   2 
+rockth   1 
+rod   3 
+rode   1 2 
+rodger   1 3 
+rodney   1 
+rogu   3 
+roguish   3 
+role   3 
+roll   1 2 3 
+roller   1 
+roman   2 
+romanc   3 
+romant   1 2 
+rome   3 
+ronder   3 
+roof   1 3 
+room   1 2 3 
+roomi   2 
+roomno   3 
+roomor   2 
+roomthat   3 
+root   2 3 
+rope   1 3 
+rose   1 2 3 
+rosi   2 
+ross   1 
+rot   1 
+rotten   3 
+rough   1 2 3 
+roughen   1 
+roughhewn   3 
+roughli   1 
+roughlook   1 
+roughshod   1 
+round   1 2 3 
+roundback   3 
+roundish   3 
+rous   2 3 
+rout   2 
+routin   1 3 
+row   1 2 3 
+roy   3 
+royal   2 3 
+royster   1 
+rub   1 2 3 
+rubbish   1 2 3 
+rubi   2 
+rubicund   3 
+ruddi   1 2 
+ruddyfac   2 
+ruddytint   1 
+rude   1 2 3 
+rudi   2 
+rue   2 
+rueful   1 
+ruefulli   3 
+ruffian   3 
+ruffianli   1 
+ruffl   2 3 
+rug   1 2 3 
+rugbi   3 
+ruin   1 2 3 
+rule   2 
+rumbl   1 2 
+rummag   3 
+rumour   1 2 3 
+run   1 2 3 
+runil   3 
+runner   1 
+ruritania   3 
+ruse   1 2 
+rush   1 2 3 
+russet   1 
+russia   1 
+russian   2 
+rust   2 3 
+rusti   2 
+rustic   2 
+rustl   1 2 
+rustyco   1 
+rut   2 
+ruthless   2 
+ryder   3 
+s   1 3 
+sacr   1 2 3 
+sacrif   3 
+sacrific   2 3 
+sad   1 3 
+sadder   3 
+saddest   1 
+saddl   1 2 3 
+sadli   1 3 
+safe   1 2 3 
+safer   1 3 
+safeti   1 2 3 
+safetycatch   3 
+sag   3 
+sahara   3 
+said   1 2 3 
+saidand   3 
+saidon   3 
+saidwhi   3 
+sail   2 3 
+saint   1 2 
+saintli   1 2 
+sake   1 2 3 
+sakethat   3 
+saladoil   3 
+salin   2 
+salli   2 
+sallow   2 3 
+salmoncolour   3 
+salt   2 
+salut   1 2 
+sam   3 
+same   1 2 3 
+samebut   3 
+samson   2 
+san   3 
+sanctum   3 
+sand   3 
+sander   3 
+sandi   3 
+sandyhair   2 
+sane   1 2 
+sang   2 
+sanger   3 
+saniti   1 3 
+sank   1 2 3 
+sarcasm   2 
+sarcophagu   3 
+sardon   2 3 
+sat   1 2 3 
+satin   3 
+satisfact   1 2 3 
+satisfactori   1 2 3 
+satisfi   1 2 3 
+saturday   1 3 
+saturnin   3 
+saucer   2 3 
+saucili   2 
+saunder   3 
+saunter   1 
+savag   1 2 3 
+savagelook   2 
+save   1 2 3 
+saw   1 2 3 
+sawdust   3 
+sawyer   2 
+sawyerh   2 
+saxon   3 
+say   1 2 3 
+scaffold   1 3 
+scale   1 3 
+scalelik   3 
+scalp   3 
+scamper   2 
+scandal   1 3 
+scanti   2 3 
+scar   1 3 
+scarc   1 2 
+scare   1 2 3 
+scarlet   1 2 3 
+scatheless   3 
+scatter   1 2 3 
+scene   1 2 3 
+sceneri   1 
+scent   1 2 3 
+scenta   2 
+scentbottl   3 
+schedul   3 
+scheme   1 3 
+schemer   1 3 
+schism   2 
+scholar   3 
+scholast   1 
+school   1 3 
+schoolboy   3 
+schoolmast   1 
+schoolroom   3 
+scienc   1 2 3 
+scientif   1 2 3 
+scientist   3 
+scintil   3 
+scion   1 
+scissor   1 
+scope   1 
+scorbut   3 
+score   1 2 3 
+scorn   1 2 
+scotland   2 3 
+scott   3 
+scoundrel   1 2 
+scourg   3 
+scout   2 
+scowl   3 
+scrambl   3 
+scrap   3 
+scrapbook   2 
+scrape   2 
+scratch   1 2 3 
+scrawl   1 2 3 
+scream   1 2 3 
+screama   1 
+screamsand   1 
+screamsmi   1 
+screech   3 
+screen   1 2 3 
+scribbl   1 3 
+script   1 
+scrub   1 2 
+scrunch   2 
+scrutini   2 
+scud   3 
+scuffl   1 2 3 
+scullerymaid   1 
+sculptor   3 
+scum   3 
+sea   1 2 3 
+seabird   3 
+seal   1 2 3 
+seam   1 3 
+sear   3 
+search   1 2 3 
+season   1 2 
+seat   1 2 3 
+sebastian   3 
+secess   2 
+seclus   1 2 3 
+second   1 2 3 
+secondari   3 
+secreci   1 3 
+secret   1 2 3 
+secretari   2 3 
+secretli   1 3 
+section   1 3 
+secur   1 2 3 
+seddar   3 
+sedg   1 
+see   1 2 3 
+seed   2 3 
+seedi   2 
+seek   1 2 
+seem   1 2 3 
+seen   1 2 3 
+seewhat   2 
+seewhi   1 
+segreg   3 
+seiz   1 2 3 
+seizedmi   3 
+seizur   3 
+selden   1 
+seldom   1 2 3 
+select   1 3 
+self   3 
+selfappoint   3 
+selfcommand   3 
+selfcomplais   3 
+selfconfid   2 
+selfcontain   1 3 
+selfdef   2 
+selfimport   1 2 3 
+selfish   1 3 
+selfpossess   3 
+selfrespect   1 3 
+selfrespecteveryth   1 
+selfsatisfact   3 
+selfsatisfi   2 3 
+sell   3 
+selp   3 
+semicircl   3 
+semitrop   3 
+senat   3 
+send   1 2 3 
+senil   2 
+senior   1 
+sens   1 2 3 
+sensat   1 2 3 
+senseless   3 
+sensibl   3 
+sensit   1 2 3 
+sensual   3 
+sent   1 2 3 
+sentenc   1 3 
+sententi   2 
+sentiment   1 3 
+sentinel   2 
+separ   1 2 3 
+septemb   3 
+sequenc   1 2 3 
+sere   2 
+sergeant   2 3 
+seri   1 2 3 
+seriou   1 3 
+serious   1 3 
+sermon   2 
+serpent   1 2 
+serrat   1 
+serum   3 
+serv   1 2 3 
+servant   1 2 3 
+servic   1 2 3 
+set   1 2 3 
+sette   1 3 
+settl   1 2 3 
+settledthat   2 
+settlement   1 2 
+settler   2 
+seven   1 2 3 
+seventeen   3 
+seventeenth   2 3 
+seventh   3 
+seventhirti   3 
+seventyf   1 
+sever   1 3 
+sevil   2 
+sex   3 
+shade   1 2 3 
+shadi   3 
+shadow   1 2 3 
+shadowi   1 2 3 
+shadowmiseri   3 
+shaft   1 3 
+shag   1 3 
+shaggi   3 
+shake   1 2 3 
+shaken   1 2 3 
+shakespear   3 
+shaki   2 
+shall   1 2 3 
+shallow   3 
+shambl   3 
+shame   1 2 3 
+shamefac   3 
+shamefullysham   1 
+shameless   2 
+shape   1 2 3 
+share   1 2 3 
+shark   3 
+sharp   1 2 3 
+sharpen   1 2 
+sharpli   1 2 3 
+shatter   1 2 3 
+shawl   1 2 3 
+she   1 2 3 
+shed   1 
+shedevil   3 
+sheep   1 2 
+sheepdog   1 
+sheeppen   1 
+sheer   1 
+sheet   1 2 3 
+shei   3 
+shelf   1 3 
+shell   1 3 
+shelter   1 2 
+shelterless   1 
+shelv   3 
+shepherd   1 
+sherlock   1 2 3 
+shesh   3 
+shi   3 
+shield   1 
+shift   2 3 
+shill   1 2 
+shimmer   1 
+shin   2 
+shine   1 2 3 
+shingl   3 
+shingli   2 
+shinwel   3 
+ship   1 2 3 
+shipley   1 
+shipmat   2 
+shirt   1 2 
+shirtcuff   1 
+shiver   1 2 3 
+shock   1 2 3 
+shockpleas   3 
+shoe   2 3 
+shomu   3 
+shone   1 2 3 
+shook   1 2 3 
+shoot   1 3 
+shooter   3 
+shop   1 2 3 
+shore   1 2 3 
+short   1 2 3 
+shortblad   1 
+shortcom   2 
+shortcrop   3 
+shorter   1 3 
+shorthand   2 
+shortli   1 2 3 
+shoscomb   3 
+shosoin   3 
+shot   1 2 3 
+shotgun   2 
+should   1 2 3 
+shoulder   1 2 3 
+shouldnt   2 
+shout   1 2 3 
+shove   2 
+show   1 2 3 
+showeri   1 
+showi   2 
+showman   2 
+showmen   3 
+shown   1 2 3 
+shrank   1 3 
+shrewd   1 2 
+shrewdli   3 
+shriek   1 2 3 
+shrill   2 3 
+shrink   1 3 
+shrivel   2 3 
+shrub   3 
+shrubberi   1 
+shrug   1 3 
+shrunk   2 
+shudder   1 3 
+shuffl   1 2 3 
+shut   1 3 
+shutter   3 
+shuttera   3 
+shutterburglarproof   3 
+shyness   3 
+sibilat   2 
+sick   1 2 3 
+sicken   3 
+sickish   2 
+sickli   2 
+side   1 2 3 
+sideboard   3 
+sidedoor   2 
+sidedraw   3 
+sideg   3 
+sidescarri   3 
+sidet   3 
+sideway   3 
+sierra   2 
+siesta   3 
+sift   3 
+sigh   1 2 3 
+sight   1 2 3 
+sightless   2 
+sign   1 2 3 
+signal   1 2 3 
+signific   1 2 3 
+silenc   1 2 3 
+silencecomplet   2 
+silent   1 2 3 
+silhouet   1 
+silk   1 3 
+silki   3 
+silli   3 
+silver   1 2 3 
+silverpl   1 
+silverspangl   1 
+silvertip   1 
+similar   1 2 3 
+simiou   2 
+simpl   1 2 3 
+simpler   3 
+simplest   3 
+simpli   1 2 3 
+simplic   2 
+simplifi   2 
+simpson   3 
+simpsonth   3 
+simul   2 3 
+sin   1 2 3 
+sinc   1 2 3 
+sincer   1 2 
+sinewi   2 
+sing   1 3 
+singl   1 2 3 
+singlehand   2 3 
+singlemind   1 3 
+singlestick   2 3 
+singli   2 
+singular   1 3 
+singularli   1 2 
+sinist   1 2 3 
+sink   1 2 3 
+sinner   1 
+sir   1 2 3 
+sirah   3 
+sirh   3 
+siri   1 
+siron   1 
+sirselden   1 
+sister   1 2 3 
+sit   1 2 3 
+sittingroom   1 2 3 
+sittingroomi   3 
+situat   1 2 3 
+six   2 3 
+sixpenc   2 3 
+sixth   2 
+sixti   2 
+sixtyodd   3 
+sixtyon   3 
+size   1 2 3 
+sizelarg   3 
+skein   1 2 3 
+skeleton   1 2 
+sketch   1 2 3 
+skil   2 
+skill   1 2 
+skin   1 2 3 
+skinclad   1 
+skinni   3 
+skip   2 3 
+skirt   1 2 3 
+skulk   2 
+skull   1 3 
+sky   1 2 3 
+skylin   1 2 
+slab   1 3 
+slabsid   3 
+slack   2 
+slain   2 3 
+slam   2 
+slander   3 
+slant   1 3 
+slap   1 2 
+slash   3 
+slate   3 
+slatecolour   1 
+slatternli   3 
+slaughter   1 2 
+slaveri   3 
+slavon   3 
+sledgehamm   2 
+sleep   1 2 3 
+sleeper   1 2 
+sleepi   3 
+sleev   1 3 
+slept   2 3 
+sleuth   3 
+sli   3 
+slide   3 
+slight   2 3 
+slightest   1 2 3 
+slightli   2 3 
+slim   1 3 
+slime   1 
+slimi   1 
+sling   2 
+slink   1 3 
+slip   1 2 3 
+slipperi   3 
+slipshod   2 
+slipwel   3 
+slit   2 
+sloan   3 
+slope   1 2 3 
+sloppi   2 
+slovenli   1 
+slow   2 3 
+slowli   1 2 3 
+slug   3 
+sluggish   1 3 
+slumber   1 2 
+slung   2 
+slur   3 
+slush   2 
+smack   2 
+small   1 2 3 
+smaller   1 2 3 
+smallest   2 3 
+smart   1 2 3 
+smartest   2 
+smartli   2 
+smartveri   2 
+smash   3 
+smear   2 
+smell   1 2 3 
+smile   1 2 3 
+smileda   3 
+smiledy   3 
+smirk   2 
+smite   2 
+smith   2 
+smoke   1 2 3 
+smokedarken   1 
+smokeladen   3 
+smoki   3 
+smooth   1 3 
+smoothli   1 
+smoulder   1 2 3 
+smudg   1 
+smug   3 
+snackl   2 
+snaki   3 
+snap   1 3 
+snapshot   3 
+snarl   2 3 
+snatch   1 2 3 
+sneak   1 
+sneer   3 
+snif   1 2 
+sniff   1 
+snip   1 
+snippet   3 
+snort   2 
+snow   2 3 
+snowcap   2 
+snowwhit   2 
+so   1 2 3 
+soak   3 
+soar   1 
+sob   1 2 3 
+sober   1 2 
+socal   3 
+social   2 3 
+socialist   2 
+societi   1 2 3 
+sock   2 3 
+soclear   3 
+sodden   1 
+sofa   2 3 
+sofor   3 
+soft   1 2 3 
+soften   1 3 
+softheart   3 
+softli   1 2 3 
+soil   1 2 3 
+solar   2 
+sold   2 3 
+soldier   1 3 
+soldierli   1 
+sole   2 
+solemn   1 2 3 
+solicit   1 2 
+solicitud   3 
+solid   1 2 3 
+solitari   1 2 3 
+solitud   1 3 
+solo   2 
+solubl   2 
+solut   3 
+solv   1 2 3 
+sombr   1 2 
+sombrero   2 
+some   1 2 3 
+somebodi   1 2 3 
+somehow   2 
+someon   1 2 3 
+somersault   1 
+someth   1 2 3 
+somethin   2 
+sometim   1 2 3 
+somewhat   1 2 3 
+somewher   1 3 
+son   1 2 3 
+sonemsworth   3 
+song   3 
+sonor   2 
+soon   1 2 3 
+sooner   1 2 3 
+soonwont   3 
+sooth   3 
+soothingli   3 
+sordid   2 
+sore   1 2 3 
+sorri   1 2 3 
+sorrow   1 3 
+sort   1 2 3 
+sosuppos   1 
+sot   2 
+sothebi   3 
+sothough   3 
+sottish   2 
+sought   1 3 
+soul   1 2 3 
+souljealousi   3 
+sound   1 2 3 
+sounder   3 
+soundlow   2 
+soup   3 
+soupplat   3 
+sour   2 3 
+sourc   1 2 3 
+south   1 2 3 
+southampton   1 3 
+southern   3 
+southwest   1 3 
+souvenir   1 
+sovereign   1 
+space   1 2 3 
+span   1 3 
+spaniel   1 3 
+spanish   1 3 
+spanishamerican   1 
+spare   1 2 3 
+sparkl   1 2 3 
+spars   1 
+spartan   1 
+spasm   1 2 
+spat   3 
+speak   1 2 3 
+special   1 2 3 
+specialist   1 3 
+specimen   1 2 3 
+speciou   1 
+speck   1 2 
+speckl   2 
+spectacl   1 2 3 
+spectat   3 
+spectral   1 
+specul   1 2 3 
+speech   2 3 
+speed   1 2 3 
+speedili   2 3 
+spencer   3 
+spend   2 3 
+spent   1 2 3 
+sphinxlik   3 
+spi   1 3 
+spin   2 3 
+spinal   3 
+spindl   3 
+spine   3 
+spirit   1 2 3 
+spiritu   1 3 
+spit   3 
+spite   1 2 3 
+splash   2 3 
+splendid   1 2 3 
+splinter   1 
+split   3 
+splugen   3 
+splutter   1 3 
+spoil   3 
+spoilsport   1 
+spoke   1 2 3 
+spoken   1 2 3 
+spokesman   2 
+spong   3 
+spoon   2 
+spoonbait   3 
+spoor   3 
+sport   3 
+sportsman   3 
+sportth   3 
+spose   3 
+spot   1 2 3 
+spous   3 
+sprang   1 2 3 
+sprawl   3 
+spray   2 
+spread   1 3 
+spreadeagl   1 
+spri   2 
+spring   1 2 3 
+sprinkl   1 2 
+spruce   2 
+sprung   1 2 3 
+spur   1 
+squadron   3 
+squall   1 2 
+squar   1 2 3 
+squareto   2 
+squat   1 3 
+squawk   3 
+squeal   3 
+squeez   2 
+squir   1 
+st   1 2 3 
+stab   2 
+stabl   3 
+stablehand   3 
+stablelantern   3 
+stablemen   3 
+stackhurst   3 
+staff   1 3 
+stag   1 
+stage   1 3 
+stagger   1 2 3 
+staghound   2 
+stagnat   3 
+staid   3 
+stain   1 2 3 
+stair   1 2 3 
+staircas   2 3 
+stake   1 3 
+stall   2 
+stalwart   2 
+stamford   1 2 
+stammer   1 2 3 
+stamp   1 2 3 
+stand   1 2 3 
+standard   2 3 
+stangerson   2 
+stapl   1 
+stapleton   1 
+star   1 2 
+stare   1 2 3 
+stark   3 
+starlit   1 
+starr   3 
+start   1 2 3 
+startingpoint   3 
+startl   2 3 
+starv   1 2 3 
+state   1 2 3 
+statement   1 2 3 
+station   1 2 3 
+stationdr   1 
+stationmast   1 3 
+statu   1 2 3 
+statuett   2 
+statur   3 
+stave   3 
+stay   1 2 3 
+stayedand   3 
+stayin   3 
+steadfast   1 
+steadi   1 2 3 
+steadili   1 3 
+steal   1 3 
+stealth   1 
+stealthi   1 2 3 
+stealthili   1 
+steam   2 3 
+steamer   3 
+steamship   2 
+steel   1 2 3 
+steelblu   2 
+steep   1 2 3 
+steer   1 
+step   1 2 3 
+stepdaught   1 
+stephen   3 
+stepmoth   3 
+stepson   3 
+stern   1 2 3 
+sternest   3 
+sternli   1 2 3 
+sternlook   3 
+steve   3 
+steward   2 
+stick   1 2 3 
+stiff   2 3 
+stifl   2 3 
+still   1 2 3 
+stillest   3 
+stimul   1 2 3 
+sting   1 
+stinger   3 
+stipul   3 
+stir   1 2 3 
+stitch   3 
+stock   2 3 
+stockbrok   3 
+stockdal   3 
+stoep   3 
+stoicism   2 
+stole   1 3 
+stolen   1 
+stolid   1 
+stolidli   1 2 
+stomach   2 
+stone   1 2 3 
+stonecast   3 
+stonestrewn   1 
+stonewar   2 
+stonework   3 
+stoni   1 
+stoniest   1 
+stood   1 2 3 
+stool   2 
+stoop   1 2 3 
+stop   1 2 3 
+store   2 3 
+storehous   3 
+stori   1 2 3 
+storm   1 
+stormi   3 
+storyrath   3 
+stout   1 2 3 
+stoutest   2 
+stove   2 
+stow   3 
+stradivariu   2 
+straggl   2 3 
+straight   1 2 3 
+straighten   3 
+straightwalk   2 
+strain   1 2 3 
+straitjacket   1 
+strand   1 2 3 
+strandto   2 
+strang   1 2 3 
+stranger   1 2 3 
+strangest   1 2 3 
+strangl   1 
+strangul   2 
+strap   2 
+straubenze   3 
+straw   1 3 
+streak   1 3 
+stream   1 2 3 
+street   1 2 3 
+strength   1 2 3 
+strengthen   2 3 
+strengthgiv   3 
+stress   1 2 
+stretch   1 2 3 
+stretcher   2 
+strewn   2 
+stricken   3 
+strict   2 
+strictli   2 
+stride   1 2 
+strident   1 
+strike   1 2 3 
+strikinglook   1 
+string   1 2 3 
+stringent   2 
+strip   1 2 3 
+stripe   2 
+strive   3 
+strode   2 3 
+stroll   1 2 3 
+strollin   2 
+strong   1 2 3 
+stronger   1 2 3 
+strongest   1 3 
+strongli   1 3 
+stronglybuilt   1 
+strongmind   1 
+strongnerv   3 
+strongroom   3 
+strongroomlik   3 
+struck   1 2 3 
+struggl   1 2 3 
+strut   3 
+stub   1 
+stubbl   2 
+stuck   1 2 3 
+stud   3 
+student   1 2 3 
+studi   1 2 3 
+studiou   2 
+studya   3 
+studyit   1 
+stuf   3 
+stuff   2 3 
+stumbl   1 2 3 
+stump   2 3 
+stun   2 3 
+stunt   1 
+stupid   1 3 
+sturdi   2 
+sturdili   1 
+style   2 3 
+suav   3 
+subaltern   3 
+subclavian   2 
+subdivid   2 3 
+subdu   1 2 
+subject   1 2 3 
+subjoin   2 
+sublibrarian   3 
+sublieuten   2 
+submiss   1 
+submit   1 3 
+subordin   3 
+subscrib   3 
+subsequ   3 
+substanc   2 3 
+substanti   2 3 
+substitut   3 
+subtl   1 2 3 
+subtleti   3 
+subtli   1 2 3 
+suburb   2 3 
+suburban   2 3 
+succeed   1 2 3 
+success   1 2 3 
+succinctli   2 
+such   1 2 3 
+suck   1 3 
+sucker   1 3 
+sudburi   3 
+sudden   1 2 3 
+suddenli   1 2 3 
+suffer   1 2 3 
+suffici   1 2 3 
+sugar   3 
+suggest   1 2 3 
+suggestshalloa   1 
+suicid   2 3 
+suit   1 2 3 
+suitabl   2 
+suitcas   3 
+suitor   1 
+suitoreven   1 
+suitth   1 
+sulk   3 
+sulki   2 3 
+sulkili   3 
+sullen   2 3 
+sullenli   2 3 
+sulphur   1 
+sultan   3 
+sum   1 2 3 
+sumatra   3 
+summer   2 3 
+summerhous   1 
+summit   1 2 
+summon   1 2 3 
+sun   1 2 3 
+sunbak   3 
+sunburn   2 3 
+sunday   3 
+sundial   3 
+sundown   1 
+sung   3 
+sunglass   3 
+sunk   2 3 
+sunken   1 2 3 
+sunlight   1 2 3 
+sunlit   1 
+sunset   3 
+sup   2 
+superfici   2 3 
+superintend   3 
+superior   2 3 
+supernatur   1 
+supernaturalist   1 
+supersed   1 2 
+superstit   1 
+superstiti   1 2 
+supervis   3 
+supper   1 2 3 
+suppl   1 
+suppli   1 2 3 
+support   1 2 3 
+suppos   1 2 3 
+supposei   3 
+supposit   1 2 3 
+suppress   1 2 
+supraorbit   1 
+suprem   1 3 
+surd   3 
+sure   1 2 3 
+surest   1 
+sureti   2 
+surfac   1 2 3 
+surfeit   3 
+surg   1 
+surgeon   1 2 3 
+surgeri   1 3 
+surgic   1 3 
+surmis   1 2 
+surmount   1 2 3 
+surpris   1 2 3 
+surprisingli   3 
+surrey   3 
+surround   1 2 3 
+surveil   3 
+survey   1 3 
+surviv   3 
+susan   3 
+suscept   2 
+suspect   1 2 3 
+suspend   2 
+suspens   2 3 
+suspici   1 2 3 
+suspicion   1 2 3 
+suspicionsnot   1 
+sussex   3 
+sussexwel   3 
+sustain   2 3 
+susten   2 
+sutro   3 
+swag   3 
+swallow   1 2 3 
+swamp   1 
+swan   1 
+swank   3 
+swarm   1 3 
+swarthi   3 
+swath   1 3 
+sway   1 3 
+swear   1 2 3 
+sweat   3 
+swedish   1 
+sweep   1 3 
+sweeper   2 
+sweet   1 2 3 
+swell   1 2 3 
+swept   1 2 3 
+swift   1 2 
+swiftest   3 
+swiftflow   2 
+swiftli   1 2 3 
+swim   2 3 
+swimmer   3 
+swimmingpool   3 
+swing   3 
+swirl   1 3 
+swish   3 
+switch   3 
+swollen   1 3 
+sword   1 2 
+swordsman   2 
+swore   1 2 
+sworn   1 3 
+sworna   3 
+swung   1 2 3 
+sylviu   3 
+sympath   3 
+sympathet   3 
+sympathi   3 
+symptom   1 2 3 
+syncop   3 
+synthet   2 
+syracusanof   3 
+syring   3 
+system   2 3 
+systemat   2 3 
+tabl   1 2 3 
+tableand   3 
+tableit   3 
+taboo   3 
+taciturn   2 3 
+tackl   3 
+tact   3 
+tail   2 3 
+take   1 2 3 
+taken   1 2 3 
+tale   1 2 3 
+talent   2 3 
+talk   1 2 3 
+tall   1 2 3 
+taller   1 2 3 
+talli   2 
+tan   1 2 3 
+tang   3 
+tangi   3 
+tangl   1 2 3 
+tantrum   3 
+tap   1 2 3 
+tape   2 
+taper   1 3 
+tapestri   3 
+tariff   1 
+tarri   3 
+task   1 2 3 
+tast   1 2 3 
+tastesit   2 
+tatter   2 
+tattoo   2 
+taught   2 3 
+taut   3 
+tavern   2 3 
+taverni   3 
+tawni   3 
+tax   1 
+taxpay   1 
+tea   2 3 
+teach   1 2 
+teacher   3 
+team   2 
+tear   1 2 3 
+tearstain   1 2 
+teas   3 
+teaset   3 
+teaspoon   2 
+technic   3 
+teen   1 
+teeth   1 2 3 
+telegram   1 2 3 
+telegraph   1 2 3 
+telegraphoffic   1 
+telephon   3 
+telescop   1 
+tell   1 2 3 
+telltal   1 
+temper   1 2 3 
+tempera   1 
+temperatur   3 
+tempest   3 
+tempestu   1 
+templ   1 2 3 
+temporari   1 2 3 
+tempt   3 
+temptat   2 3 
+ten   2 3 
+tenac   1 2 
+tenaci   1 
+tenant   1 2 3 
+tend   1 2 3 
+tender   3 
+tenderli   2 3 
+tenner   3 
+tenor   3 
+tens   1 3 
+tent   3 
+tenth   3 
+tention   2 
+term   2 3 
+termin   1 2 
+terrac   2 
+terribl   1 2 3 
+terriblea   1 
+terrier   1 2 3 
+terrif   2 3 
+terrifi   1 2 3 
+terrificit   3 
+terror   1 2 3 
+test   1 2 3 
+testedso   2 
+testili   1 
+testimoni   1 2 
+testtub   2 
+tether   2 
+text   1 2 3 
+textbook   2 
+thackeray   3 
+than   3 
+thank   1 2 3 
+thankless   3 
+that   1 2 3 
+thatit   2 
+thatsometh   3 
+the   1 2 3 
+theatr   3 
+theatreanoth   3 
+their   1 2 3 
+them   1 2 3 
+themand   1 3 
+themselv   1 2 3 
+then   1 2 3 
+thenalasit   3 
+thenc   1 2 
+theophilu   1 
+theori   1 2 3 
+theoriz   1 2 
+there   1 2 3 
+therea   3 
+therefor   1 2 3 
+thereforei   3 
+thereinso   3 
+thereof   1 
+these   1 2 3 
+they   1 2 3 
+theyd   2 
+theyll   1 3 
+theyr   2 
+theyv   1 
+thi   1 2 3 
+thick   1 2 3 
+thicken   2 
+thickiron   1 
+thickli   1 2 
+thickneck   3 
+thiev   1 3 
+thigh   2 3 
+thighdeep   1 
+thin   1 2 3 
+thing   1 2 3 
+thingsi   3 
+think   1 2 3 
+thinkin   2 
+thinlip   1 3 
+thinner   1 3 
+third   1 2 
+thirdclass   3 
+thirst   2 
+thirteen   1 2 
+thirteenth   2 
+thirti   1 2 3 
+thirtynin   3 
+thirtyon   3 
+thirtytwo   3 
+thisfor   3 
+thisthi   3 
+thoma   2 
+thor   3 
+thornbush   1 
+thorough   2 3 
+thoroughli   1 3 
+thorsley   1 
+those   1 2 3 
+though   1 2 3 
+thought   1 2 3 
+thoughyou   2 
+thousand   1 2 3 
+thrash   2 3 
+thread   1 2 3 
+threat   1 2 
+threaten   1 2 3 
+three   1 2 3 
+threefoot   2 
+threeleg   2 
+threequart   1 3 
+threshold   1 
+threw   1 2 3 
+thrill   1 2 
+throat   1 2 3 
+throb   1 2 
+throe   3 
+throgmorton   3 
+through   1 2 3 
+throughout   1 3 
+throw   1 2 3 
+throwback   1 
+thrown   1 2 3 
+thrust   1 2 3 
+thu   1 2 3 
+thud   1 
+thumb   1 2 
+thumbnail   3 
+thunder   1 2 3 
+thunderstruck   2 
+thursday   2 
+thwart   3 
+thymesc   3 
+ticket   3 
+tickl   2 3 
+tide   1 2 3 
+tidi   3 
+tie   1 2 3 
+tiepin   3 
+tier   2 
+tiger   3 
+tight   1 
+tightli   1 2 
+tile   3 
+till   2 3 
+tilt   2 
+timber   1 3 
+time   1 2 3 
+timestain   1 
+timet   3 
+tin   1 3 
+ting   1 2 3 
+tingl   1 2 
+tini   1 3 
+tinker   3 
+tinkl   2 
+tint   1 2 3 
+tip   1 3 
+tipto   1 3 
+tire   1 2 3 
+titl   1 2 3 
+to   1 2 3 
+toast   2 3 
+tobacco   1 2 3 
+tobacconist   1 
+tobaccoslipp   3 
+tobia   2 
+today   1 2 3 
+toddl   2 
+toe   1 2 3 
+tofana   2 
+toff   1 
+togeth   1 2 3 
+toil   1 2 3 
+told   1 2 3 
+toler   1 3 
+tom   2 3 
+tomfooleri   3 
+tomorrow   1 2 3 
+tone   1 2 3 
+tongu   1 2 3 
+tonight   1 2 3 
+too   1 2 3 
+tooan   2 
+took   1 2 3 
+tool   1 2 3 
+toosh   1 
+top   1 2 3 
+topeka   3 
+tophat   3 
+topheavi   2 
+topic   2 
+tor   1 
+torch   1 
+tore   1 2 3 
+torment   3 
+torn   1 3 
+toronto   1 
+torpor   2 
+torquay   2 
+torrent   1 2 
+tortuou   3 
+tortur   1 3 
+toss   1 2 3 
+total   1 3 
+totter   2 
+touch   1 2 3 
+toujour   2 
+tour   3 
+tourist   1 
+tout   3 
+toward   3 
+towel   1 2 3 
+tower   1 2 3 
+town   1 2 3 
+townan   3 
+townand   3 
+towsi   2 
+toxicologist   2 
+toy   2 
+trace   1 2 3 
+traceri   1 
+tracey   1 
+track   1 2 3 
+tract   2 
+trade   1 2 3 
+tradesman   2 
+trafalgar   1 
+traffic   1 
+tragedi   1 2 3 
+tragedyabout   3 
+tragic   1 3 
+trail   1 2 3 
+train   1 2 3 
+trainer   3 
+trainin   3 
+trainson   2 
+trait   3 
+tralalaliraliralay   2 
+tramp   2 
+trampl   2 
+transact   3 
+transactiona   3 
+transcrib   1 
+transfix   1 3 
+transform   3 
+transmitt   3 
+transpar   2 
+transylvania   3 
+trap   1 2 3 
+trapdoor   1 3 
+trapper   2 
+travel   1 2 3 
+travelstain   2 
+travelworn   3 
+travers   2 
+tray   3 
+treacher   1 3 
+tread   1 2 
+treasur   3 
+treat   1 2 3 
+treatment   1 3 
+tree   1 2 3 
+treelin   3 
+trembl   1 2 3 
+tremend   2 3 
+trench   1 
+trencher   1 
+trend   1 
+trepidationfor   2 
+trespass   1 
+tress   2 3 
+trevor   3 
+tri   1 2 3 
+trial   1 2 3 
+tribe   2 
+tribun   2 
+trichinopoli   2 
+trick   1 2 3 
+trickl   2 
+trifl   1 2 3 
+trigger   1 2 
+trim   1 2 3 
+trip   2 
+tripod   1 
+triumph   1 3 
+triumphant   2 3 
+triumphantli   2 
+trivial   1 3 
+trodden   2 
+troopship   2 
+trophi   2 
+tropic   1 2 3 
+trot   2 3 
+troubl   1 2 3 
+trouser   1 2 3 
+trouserkne   3 
+trout   3 
+trouv   2 
+trucul   3 
+true   1 2 3 
+truli   2 3 
+trump   3 
+trunk   2 3 
+trust   1 2 3 
+truste   1 
+trusti   1 
+trustworthi   1 
+truth   1 2 3 
+tryth   3 
+tube   3 
+tudor   3 
+tuesday   2 3 
+tuft   1 3 
+tug   1 3 
+tumbledown   1 
+tumbler   3 
+tune   3 
+tunic   2 
+tunnel   1 3 
+turbid   3 
+turf   1 3 
+turkey   3 
+turkish   3 
+turn   1 2 3 
+turpey   1 
+turret   1 3 
+tussaud   3 
+tussl   2 
+tut   3 
+tutor   1 
+tuxburi   3 
+twaddl   2 
+twain   1 
+tweed   1 3 
+twelv   2 3 
+twelvemonth   2 
+twenti   2 
+twentyf   3 
+twentyfour   1 2 3 
+twentynin   2 
+twentyon   2 
+twentythre   1 3 
+twice   1 2 3 
+twilight   1 2 3 
+twin   1 
+twine   3 
+twinkl   2 3 
+twirl   1 
+twist   1 2 3 
+twitch   2 3 
+twitter   3 
+two   1 2 3 
+twogaunt   1 
+twomil   3 
+tyburn   3 
+type   1 2 3 
+typecam   3 
+typewrit   1 
+typhoid   2 
+typic   1 3 
+tyrant   1 
+tãªte   1 
+tãªteã   1 
+u   3 
+ugli   1 3 
+ulster   2 
+umbrella   3 
+un   2 3 
+unabl   1 2 3 
+unaccustom   2 
+unambiti   1 
+unanim   2 
+unannounc   1 
+unappreci   3 
+unarm   1 
+unawar   2 3 
+unawaressh   3 
+unbend   3 
+unborn   2 
+unbroken   1 
+unbusinesslik   3 
+unbutton   2 
+uncancel   1 
+uncanni   1 
+uncertain   1 2 
+unchang   3 
+uncheck   3 
+uncl   1 3 
+uncomfort   1 2 3 
+uncommon   1 2 3 
+uncommonli   2 
+unconcern   1 3 
+unconcernedli   1 3 
+unconnect   3 
+unconsci   1 3 
+uncontrol   1 
+unconvent   3 
+uncouth   1 
+uncurtain   1 
+undeceiv   1 
+undeni   1 2 3 
+under   2 3 
+underfeed   2 
+undergo   1 
+undergon   2 
+underground   2 
+underr   1 3 
+understand   1 2 3 
+understat   3 
+understood   1 3 
+understudi   3 
+undertak   1 2 
+undertook   2 
+underwood   2 
+underworld   3 
+undeserv   3 
+undesir   3 
+undevelop   3 
+undid   3 
+undisguis   2 
+undisturb   3 
+undivid   3 
+undo   1 3 
+undon   2 3 
+undoubtedli   1 3 
+undress   3 
+undu   2 3 
+undul   1 
+unduli   3 
+uneasi   1 2 3 
+uneasili   2 
+uneduc   1 
+unemot   1 2 
+unendur   3 
+unequ   3 
+uner   2 
+unev   3 
+uneven   3 
+unexpect   1 2 3 
+unexpectedli   1 
+unexplain   1 
+unexplor   1 3 
+unextinguish   2 
+unfair   1 
+unfairli   1 
+unfamiliar   3 
+unfastenedand   3 
+unfathom   3 
+unfinish   3 
+unflatt   3 
+unfold   3 
+unforeseen   2 3 
+unforgiv   3 
+unfortun   1 2 3 
+unfound   1 
+unfriendli   3 
+unfruit   1 
+unfurnish   1 
+ungainli   3 
+ungodli   2 
+unguard   2 
+unhappi   1 3 
+unhappili   3 
+unheard   2 
+uniform   1 2 
+unimagin   1 
+uniniti   2 
+unintellig   2 3 
+uninterest   1 
+union   2 3 
+uniqu   1 3 
+unit   1 2 3 
+univers   2 3 
+unjust   3 
+unjustifi   1 
+unkempt   2 
+unkennel   1 
+unkind   3 
+unkindli   3 
+unknown   1 2 3 
+unlac   3 
+unlatch   3 
+unless   1 3 
+unlet   3 
+unlik   1 3 
+unlimit   1 
+unlookedfor   2 
+unmad   3 
+unmanli   2 
+unmarri   1 3 
+unmistak   1 
+unmitig   1 
+unnatur   1 2 3 
+unnecessari   1 3 
+unnerv   2 
+unnot   3 
+unobserv   3 
+unoccupi   1 
+unoffici   2 3 
+unorthodox   2 
+unpack   2 3 
+unparallel   2 3 
+unpleas   1 3 
+unpract   1 
+unprotect   1 3 
+unprovok   3 
+unquestion   3 
+unravel   2 3 
+unreason   2 
+unrespons   2 3 
+unrestrain   3 
+unrol   1 
+unruffl   3 
+unsaf   1 
+unsal   3 
+unsavouri   2 3 
+unscath   3 
+unseat   2 
+unseen   1 2 
+unsettl   2 3 
+unsightli   3 
+unsign   1 
+unsling   2 
+unsolv   2 3 
+unspoken   1 
+unswath   1 
+unsystemat   2 
+untam   2 
+unten   1 
+unthink   3 
+untidi   2 3 
+until   1 2 3 
+untim   1 3 
+untir   2 
+unto   2 
+untouch   2 
+untrac   3 
+unus   3 
+unusu   1 2 3 
+unutter   3 
+unwarlik   1 
+unwash   3 
+unwelcom   2 
+unwieldi   2 
+unwittingli   3 
+unwont   1 
+unworthi   3 
+unwrap   2 3 
+unwritten   2 
+unyield   2 
+up   1 2 3 
+upchannel   3 
+updrawn   3 
+uphold   3 
+upland   1 
+upm   2 
+upon   1 2 3 
+uponwel   3 
+upper   1 3 
+upright   1 
+uproar   1 3 
+upset   2 
+upshot   1 
+upstair   1 2 3 
+upstand   3 
+upthank   1 
+upward   1 2 3 
+upwith   3 
+upwood   1 
+upyou   2 
+urchin   1 
+urg   1 2 3 
+urgenc   1 
+urgent   1 3 
+us   1 2 3 
+usa   2 
+usag   2 
+usand   3 
+use   1 2 3 
+useless   1 2 3 
+usher   2 3 
+usm   3 
+usth   1 
+ustomorrow   1 
+usual   1 2 3 
+utah   2 
+utensil   1 3 
+util   3 
+utmost   1 2 3 
+utrecht   2 
+utter   1 2 3 
+utterli   2 3 
+v   1 2 3 
+vacanc   3 
+vacant   2 
+vacantli   2 
+vacat   3 
+vagari   3 
+vagrant   2 
+vagu   1 2 3 
+vain   1 2 3 
+vainli   2 3 
+valhalla   3 
+valley   1 2 
+valour   1 
+valu   1 2 3 
+valuabl   1 3 
+valuat   3 
+valueless   2 
+valuer   3 
+vampir   3 
+van   2 3 
+vandeleur   1 
+vanderbilt   3 
+vanguard   2 
+vanish   1 2 3 
+vapour   1 
+vari   3 
+variant   1 2 3 
+varieti   1 
+varnish   1 3 
+vase   3 
+vast   1 3 
+vatican   1 
+vault   2 3 
+veget   1 2 
+vegetationsad   1 
+vehem   1 
+vehicl   1 
+vehmgericht   2 
+veil   1 2 3 
+vein   1 3 
+veldt   3 
+velvet   1 3 
+velveteen   2 
+vener   1 
+vengeanc   1 2 
+venom   3 
+vent   2 3 
+ventil   3 
+ventur   1 2 3 
+verandah   2 
+verb   3 
+verdict   1 3 
+verg   2 3 
+veri   1 2 3 
+verifi   2 3 
+vernon   3 
+verra   3 
+version   2 3 
+vessel   2 
+vestri   1 
+vet   3 
+vex   1 
+vexat   1 
+vexati   3 
+vi   1 2 
+vibrat   1 3 
+vicar   3 
+vicarag   3 
+vice   2 3 
+vicin   2 
+viciou   1 3 
+victim   1 2 3 
+victor   3 
+victoria   3 
+victorian   3 
+vie   2 
+view   1 2 3 
+viewth   1 
+vigil   1 2 3 
+vigor   2 3 
+vii   1 2 
+viii   1 
+vile   1 3 
+villa   2 3 
+villag   1 3 
+villain   1 3 
+villainan   3 
+villaini   1 
+villani   2 
+vindic   3 
+vindict   2 3 
+vintag   3 
+violat   2 
+violenc   1 2 3 
+violent   1 2 3 
+violet   1 3 
+violin   1 2 3 
+violincas   3 
+violinplay   2 
+viper   3 
+virgin   2 
+viril   3 
+virtu   2 3 
+virtual   3 
+virtuoso   3 
+visag   2 
+visibl   1 2 3 
+vision   1 3 
+visit   1 2 3 
+visitingcard   1 
+visitor   1 2 3 
+vista   2 
+visual   3 
+vital   3 
+vitriol   3 
+vitriolthrow   3 
+vittoria   3 
+vivid   2 3 
+vividli   3 
+vixen   1 
+voic   1 2 3 
+voicesth   2 
+void   1 
+volcan   2 
+volum   2 3 
+volunt   2 3 
+voluptu   3 
+von   2 
+voraci   2 
+vouch   2 
+vow   2 3 
+voyag   1 3 
+vulgar   2 3 
+vulner   1 
+vultur   2 3 
+w   3 
+wa   1 2 3 
+wad   3 
+waddl   3 
+wag   3 
+wage   2 3 
+wager   2 
+waggon   2 
+wagonett   1 
+wahsatch   2 
+waif   2 
+wail   2 3 
+wainwright   3 
+waist   1 
+waistcoat   2 
+wait   1 2 3 
+waiter   1 
+waitingroom   3 
+wake   1 2 3 
+waken   3 
+waldron   3 
+walk   1 2 3 
+wall   1 2 3 
+wan   2 3 
+wand   1 
+wander   1 2 3 
+wane   1 
+want   1 2 3 
+wanton   1 
+war   2 3 
+ward   2 
+warder   1 2 
+wardrob   1 3 
+ware   3 
+wari   1 
+warili   1 3 
+warm   2 3 
+warmli   1 2 
+warmth   1 2 3 
+warn   1 2 3 
+warnin   3 
+warningit   1 
+warrant   1 2 
+warranti   1 2 3 
+warren   1 
+warrend   3 
+wasdebonair   3 
+wash   2 3 
+washo   2 
+washow   3 
+wasnt   1 2 3 
+wast   1 3 
+wastedmi   1 
+wastepap   1 
+watch   1 2 3 
+watchchain   3 
+watcher   1 2 
+watchin   1 
+water   1 2 3 
+watercolour   3 
+watercours   2 
+wateri   1 
+waterloo   1 2 3 
+watermark   1 
+waterpip   3 
+waterpl   1 
+waterproof   1 
+watson   1 2 3 
+watsona   3 
+watsonan   1 
+watsonand   3 
+watsoni   1 
+watsonif   3 
+watsonit   3 
+watsonjust   3 
+watsonmark   3 
+watsonnatur   3 
+watsonrefin   1 
+watsonrun   1 
+watsonth   3 
+watsonveri   3 
+watsonwel   3 
+wave   1 2 3 
+waver   1 2 
+wax   2 3 
+waxwork   3 
+way   1 2 3 
+wayfar   2 
+wayh   3 
+wayhad   2 
+wayhi   1 
+waysid   1 2 
+wayyou   3 
+we   1 2 3 
+weak   1 2 3 
+weaken   2 
+weakl   3 
+weakmind   3 
+weal   1 3 
+weald   3 
+wealth   1 2 3 
+wealthi   1 2 
+weapon   1 2 3 
+wear   1 2 3 
+weari   1 2 3 
+wearili   3 
+weather   1 2 3 
+weatherbeaten   1 2 
+weatherbitten   1 
+weav   1 
+wed   2 3 
+weddingr   2 
+week   1 2 3 
+weekdestin   3 
+weekend   3 
+weekli   3 
+weep   1 
+wei   3 
+weigh   1 2 
+weight   1 3 
+weird   1 2 
+weirdest   1 
+welcom   1 2 3 
+welfar   1 
+well   1 2 3 
+wellb   3 
+wellboot   2 
+wellchosen   3 
+welldefin   2 
+welldeserv   3 
+wellestablish   1 
+wellesteem   1 
+wellhedg   1 
+wellhous   3 
+wellinform   2 
+wellintent   3 
+wellknown   1 2 3 
+wellmark   1 3 
+wellplay   2 
+wellpolish   1 
+welltodo   2 
+welltrain   1 2 
+wellworn   3 
+wench   1 
+went   1 2 3 
+wept   1 2 3 
+were   1 2 3 
+west   1 2 3 
+western   1 2 3 
+westmoreland   1 
+wet   1 2 3 
+weve   1 2 3 
+what   1 2 3 
+whatdy   3 
+whatev   1 2 3 
+whatth   3 
+wheat   2 3 
+wheatfield   2 
+wheel   1 2 3 
+wheezi   3 
+when   1 2 3 
+whenev   2 
+where   1 2 3 
+whereabout   2 
+whereat   1 
+wherev   2 
+whether   2 3 
+whetston   3 
+whi   1 2 3 
+which   1 2 3 
+whichev   1 2 
+while   2 3 
+whim   1 2 
+whimper   1 
+whimsic   3 
+whine   2 3 
+whip   1 2 3 
+whiplash   1 
+whipno   2 
+whippoorwil   2 
+whirl   2 3 
+whirlwind   3 
+whisk   1 3 
+whisker   1 2 3 
+whiskey   2 
+whisper   1 2 3 
+whistl   1 2 3 
+white   1 2 3 
+whitefac   2 
+whitehair   1 2 
+whitehal   3 
+whiter   3 
+whitewash   2 3 
+whitish   3 
+who   1 2 3 
+whoever   2 3 
+whole   1 3 
+wholeheart   3 
+wholesom   2 
+wholli   2 
+whom   1 3 
+whowho   1 
+whyte   2 
+whywhi   1 
+wick   1 3 
+wicketg   1 
+wide   1 2 3 
+wideey   3 
+widen   1 
+wideopen   3 
+wider   1 2 
+widespread   1 2 3 
+widestretch   1 
+widow   1 2 3 
+wife   1 2 3 
+wifea   3 
+wig   1 
+wiggin   2 
+wigwam   1 
+wil   1 
+wild   1 2 3 
+wildbeast   3 
+wilder   1 2 3 
+wildest   2 
+wildgoos   3 
+wildli   1 2 3 
+wildlook   2 
+wili   1 
+will   1 2 3 
+william   1 2 3 
+willingli   3 
+willsav   3 
+wilson   1 
+wimbledon   3 
+win   1 2 3 
+winchest   3 
+wind   1 2 3 
+windless   1 
+window   1 2 3 
+windowand   3 
+windowpan   3 
+windowsil   2 
+windswept   1 3 
+wine   1 2 3 
+wineglass   2 
+wing   1 2 3 
+wink   2 
+winner   1 
+winter   2 3 
+wipe   2 
+wire   1 3 
+wireless   3 
+wiri   1 2 3 
+wisdom   1 3 
+wise   1 2 3 
+wiser   1 3 
+wisest   1 2 
+wish   1 2 3 
+wisp   1 2 3 
+wist   3 
+wisteria   3 
+wit   1 3 
+witchlik   3 
+with   1 2 3 
+withdraw   1 3 
+withdrew   1 2 3 
+withheld   1 
+withhold   1 2 
+within   1 2 3 
+withinso   2 
+without   2 3 
+wive   2 
+wizard   3 
+wizen   1 
+woke   2 3 
+wolf   2 3 
+wolfhound   3 
+wolv   2 
+woman   1 2 3 
+womaninde   3 
+wombwel   3 
+women   1 2 3 
+won   1 2 3 
+wonder   1 2 3 
+wonderswond   3 
+wonderwoman   3 
+wondrou   3 
+wondrous   2 
+wont   1 2 3 
+woo   1 
+wood   1 2 3 
+wooden   1 3 
+woodland   1 
+woodwork   2 3 
+wooingand   1 
+wool   1 
+woolli   1 3 
+word   1 2 3 
+wordnot   3 
+wordsth   3 
+wore   1 2 3 
+work   1 2 3 
+workaday   3 
+workman   2 3 
+workmanlik   3 
+workmanship   3 
+workshop   3 
+world   1 2 3 
+worldl   3 
+worldli   1 3 
+worldth   1 
+worldwid   3 
+worm   3 
+wormeaten   1 
+worn   1 2 3 
+wornout   3 
+worri   1 3 
+wors   1 2 3 
+worsekept   3 
+worst   1 2 3 
+worth   1 2 3 
+worthi   1 3 
+worthless   1 3 
+would   1 2 3 
+wouldb   3 
+wouldnt   1 2 3 
+wound   1 2 3 
+woundit   3 
+woundsto   3 
+wove   3 
+wrap   3 
+wreath   1 3 
+wreck   3 
+wrench   2 
+wretch   1 2 3 
+wretchedli   3 
+wri   3 
+wriggl   3 
+wring   1 2 
+wrinkl   1 2 3 
+wrist   2 3 
+writ   1 
+write   1 2 3 
+writer   1 2 3 
+writh   1 2 3 
+written   1 2 3 
+wrong   1 2 3 
+wrongli   3 
+wronglook   2 
+wrote   1 2 3 
+wrought   1 
+wrung   1 2 
+x   1 
+xi   1 
+xii   1 
+xiii   1 
+xiv   1 
+xv   1 
+xx31   3 
+yacht   3 
+yap   3 
+yard   1 2 3 
+yarder   2 
+yardsand   3 
+yawn   1 2 
+ye   1 2 3 
+year   1 2 3 
+yearbook   3 
+yearn   3 
+yearsthat   3 
+yearswhen   3 
+yeggman   3 
+yell   1 3 
+yellow   1 2 3 
+yellowcurtain   3 
+yellowhair   3 
+yellowish   2 
+yellowston   2 
+yeoman   1 3 
+yeomanri   3 
+yesand   2 
+yesterday   1 2 3 
+yesterdayaft   3 
+yesterdayd   2 
+yesterdaythat   2 
+yet   1 2 3 
+yetand   3 
+yew   1 
+yield   3 
+yoke   2 
+yonder   1 3 
+yonderh   1 
+york   1 2 
+yorker   2 
+yorkshir   1 
+you   1 2 3 
+youar   2 
+youd   2 
+youghal   3 
+youll   1 2 3 
+young   1 2 3 
+younger   1 2 3 
+youngest   1 2 
+youngsh   2 
+youngster   2 
+your   1 2 3 
+yourself   1 2 3 
+yourselfwould   3 
+yourselv   1 3 
+youth   1 2 3 
+youv   1 2 3 
+youyou   3 
+yuan   3 
+yunglo   3 
+zeal   1 2 3 
+zigzag   1 
+zinc   3 
+zion   2 
+zoolog   1 3 
+ãcartã   1 
